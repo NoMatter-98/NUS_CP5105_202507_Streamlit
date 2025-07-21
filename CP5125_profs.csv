@@ -1,0 +1,710 @@
+name,title,office_location,phone_number,email,photo,profile_website_link,education,profile,research_areas,research_interests,selected_publications,award_and_honors,courses_taught,CP5105_project
+Shalinda ADIKARI,"Lecturer (Educator Track), Information Systems and Analytics",COM2-02-48,660 12381,./images/emails/Shalinda_Adikari_email.jpg,./images/photos/Shalinda_Adikari.jpg,https://www.comp.nus.edu.sg/disa/people/shalinda,"Ph.D. (Information Systems and Analytics, National University of Singapore, Singapore, 2017)
+BSc. (Hons.) in Information Technology, (University of Moratuwa, Sri Lanka, 2009)","Dr. Shalinda received his B.Sc. (Hons.) degree in Information Technology from University of Moratuwa, Sri Lanka in 2009. In 2013 he received the National University of Singapore (NUS) research scholarship and he obtained his Ph.D. degree in Information Systems and Analytics from School of Computing, NUS in 2017. His primary research interest lies within the field of data science especially the design of data-driven applications. Currently he works with the online advertising industry where he is researching and developing new solutions to optimize the real-time bidding process in online advertising. His research has been published in INFORMS Journal of Computing. Also he has presented his research at leading academic conferences such as the International Conference on Information Systems (ICIS), the Workshop on Information Technology and Systems (WITS) and the Pacific-Asia Conference on Information Systems (PACIS). He was awarded the best paper award at WITS 2016.",Data Science & Business Analytics,"Online Advertising
+Social Network and Information Dissemination
+Data Driven Applications
+Learning Analytics","Adikari, S., and Dutta, K., 2018 “A new approach to real-time bidding in online advertisements: Auto pricing strategy”, INFORMS Journal on Computing.
+Adikari, S. 2017. Understanding the in-app advertisement effect on mobile user ad accessibility, in Pacific Asia Conference on Information Systems PACIS, Langkawi, Malaysia.
+Adikari, S., Hahn J., and Dutta, K., 2016. Temporal feature grouping based campaign optimization in Real - time bidding digital advertising, in Workshop on Information Technology and Systems WITS, Dublin, Ireland, INFORMS.
+Adikari, S., and Dutta, K., 2016. Selection of Ad Networks by Publishers in Mobile App Advertising, in Workshop on Information Technology and Systems WITS, Dublin, Ireland, INFORMS.
+Adikari, S., 2016. Use of Cultural Intelligence to Measure Influence of Online Social Networks on Cultural Adjustment. In International Conference on Cross-Cultural Design held as part of International Conference on Human Computer Interaction HCII Toronto, Canada, pp. 3-15. Springer.
+Adikari, S., and Dutta, K. 2015. Auto pricing Strategy for Real time bidding in advertising: A dynamic programming approach, in International Conference on Information Systems ICIS, Fort Worth, USA, INFORMS.
+Adikari, S., & Adu, E. K. 2015. Usage of Online Social Networks in Cultural Adaptation, in Pacific Asia Conference on Information Systems PACIS, Singapore
+Adikari, S., and Dutta, K. 2015. Real time bidding in online digital advertisement, in Design Science Research in Information Systems and Technology DESRIST, Dublin, Ireland, Springer.
+Adikari, S., & Dutta, K. 2014. Identifying Fake Profiles in Linkedin. In Pacific Asia Conference on Information Systems PACIS, Chengdu, China.
+Bogahawatte, K., & Adikari, S. 2013. Intelligent criminal identification system. In Proceedings of International Conference on Computer Science & Education ICCSE, Colombo, Sri Lanka, pp. 633-638, IEEE.","NUS Research Scholarship, National University of Singapore, 2013
+The Best Paper Award, Workshop on Information Technology and Systems (WITS), 2016, Dublin, Ireland
+Research Achievement Award, National University of Singapore, School of Computing, 2017","BT4015: Geospatial Analytics
+BT4103: Business Analytics Capstone Project
+IS4100: IT Project Management"," Conversational Recommendation Plugin for Mobile Apps
+Generative AI-Powered News Aggregator
+AI-Powered Product and Service Review Summarizer and Ranking System"
+Anand BHOJAN,"Senior Lecturer (Educator Track), Computer Science",COM3-02-49,651 67351,./images/emails/Anand_Bhojan_email.jpg,./images/photos/Anand_Bhojan.jpg,https://www.comp.nus.edu.sg/cs/people/bhojan,"Ph.D. (Computer Science & Engineering, National University of Singapore)
+MS. (Computer Science & Applications)
+BE. (Computer Science & Engineering, Gold Medalist/University First Rank)","I graduated with Bachelor degree in Computing with Gold Medal (University topper) from Bharathiar University in 1994, Professional Masters in Computer Applications from Bharathidasan University in 1999, PGC in Teaching Higher Education from University of Sheffield, UK in 2003 and P.hD. from NUS in 2011. I received research achievement award and my thesis was nominated for best PhD thesis award. I am a member of the Communication and Internet Research Lab (www.cir.nus.edu.sg) and Graduate studies committee. I am founder of Anuflora Systems (www.anuflora.com) and Virtual and Augmented Reality Labs (www.varlabs.org). I am Associate Editor of Computers and Electrical Engineering Journal, Elsevier. I am Vice President of International Researchers club, Singapore. I have been serving as Organizing Chair and Program Chair of several International conferences and in the Program Committees of several International conferences. I have given Keynote talks in IEEE/ACM International Conferences.","Systems & Networking
+Media
+Artificial Intelligence","Distributed Computing and Wireless Networks (IoT, Security, Blockchain)
+Artificial Intelligence (Generative AI, FinTech)
+Entertainment Computing (Games, VR/AR/Metaverse)
+Teaching Pedagogy","Bhojan Anand and Pan Wenren, “CloudHide: Towards Latency Hiding Techniques for Thin-client Cloud Gaming,” ACM Multimedia 2017. ACM, New York, NY, USA, 144-152.
+Anand Bhojan, Hong Wei Wong, “TI?AL – Asynchronous multiplayer shooter with procedurally generated maps,” In Entertainment Computing, Volume 16, 2016, Pages 81-93, ISSN 1875-9521.
+Bhojan Anand, Li Kecen, Akkihebbal L. Anand , ""PARVAI - HVS Aware Adaptive Display Power Management for Mobile Games,” IPS/IEEE Proceedings of the 7th International Conference on Mobile Computing and Ubiquitous Networking - ICMU 2014.
+Bhojan Anand, ""Energy Efficient Multi-player Smartphone Gaming using 3D Spatial Subdivisioning and PVS Techniques,"" Proceedings of the 21th ACM International Conference on Multimedia - IMMPD 2013, Barcelona, Spain.
+Bhojan Anand , Lee Kee Chong, Ee-Chien Chang, Mun Choon Chan, Akhihebbal L. Ananda and Wei Tsang Ooi, ""El-pincel: a painter cloud service for greener Web Pages,"" Proceedings of the 20th ACM international conference on Multimedia Nov 2012, Nara, Japan.
+K Thirugnanam, Bhojan Anand, J Sebastian, PG Kannan, AL Ananda, RK Balan, and MC Chan, “Dynamic Lookahead Mechanism for Conserving Power in Multi-Player Mobile Games,” IEEE INFOCOM 2012, Orlando, Florida, Mar 2012.
+Bhojan Anand, Akhihebbal L. Ananda, Mun Choon Chan and Rajesh Krishna Balan, "" ARIVU: Making Networked Mobile Games Green - A Scalable Power-Aware Middleware "", MOBILE NETWORKS AND APPLICATIONS, Springer Netherlands, Feb 2012.
+Bhojan Anand, Karthik Thirugnanam, Jeena Sebastian, Pravein G. Kannan, Akhihebbal L. Ananda, Mun Choon Chan, and Rajesh Krishna Balan. 2011. “Adaptive display power management for mobile games,” In Proceedings of ACM MobiSys '11. ACM, New York, NY, USA, 57-70.","2012 Nominated for Best PhD Thesis Award (Wang Gungwu Medal & Prize), National University of Singapore.
+2011 Dean’s Graduate Research Achievement Award (PhD), SoC, National University of Singapore.
+2006 Best R&D Project award, TOTE Board, Singapore model R&D project, ‘Mobile Industrial Network Integrating 3G for Mobile Experiments’
+2003 Best Presenter Award, Industrial-Info Comm. Technology (M2M), Singapore Industrial Automation Association, Mobile/Wireless Enabling Technologies for M2M
+2000 Best Presentation Award, Association Of Principals Of Colleges Of Bharathiar University., ‘Need Based Curriculum Development’
+1995 Gold medal for first Rank (out of 4000) in Computing, Bharathiar University, Awarded by the honourable Governer of the State
+1989 State Government’s Higher Education Scholarship for Outstanding Academic Performance, State 39th Rank among 300,000 candidates.","CS3103: Computer Networks Practice
+CS3247: Game Development
+CS4240: Interaction Design for Virtual and Augmented Reality
+CS4350: Game Development Project",Mechanics and User Interaction Design and Analysis for Metaverse (VR/AR/MR) Games
+CHANG Ee-Chien,"Associate Professor, Computer Science",COM2-04-30,651 66168,./images/emails/Chang_Ee_Chien_email.jpg,./images/photos/Chang_Ee_Chien.jpg,https://www.comp.nus.edu.sg/cs/people/changec,"Ph.D. (Computer Science, New York University)
+M.Sc. (National University of Singapore)
+B.Sc. (Mathematics, National University of Singapore","Ee-Chien Chang is an Associate Professor in the School of Computing at National University of Singapore. He received his PhD in Computer Science from New York University, and was a postdoctoral fellow with DIMACS in Rutgers University and NEC Labs America. His research areas cover information security, multimedia, and their intersection. His earlier works include image forensic, image watermarking and secure cryptographic techniques for noisy data. More recently, he has been investigating issues in data privacy and cloud security. He has published in reputable conferences and journals, including CCS, EUROCRYPT, USENIX Security, ACM Multimedia, INFOCOM, Journal of Applied and Computational Harmonic Analysis, etc. He is a lead-PI of National Cybersecurity R&D Laboratory.",Security,"Cloud Security
+Adversarial Machine Learning
+Applied Cryptography
+Network Security
+Multimedia Watermarking","Pengfei Wu, Jianting Ning, Jiamin Shen, Hongbing Wang and Ee-Chien Chang, Hybrid Trust Multi-Party Computation with Trusted Execution Environment, Network and Distributed System Security Symposium (NDSS), 2022.
+Sufatrio, Jan Vykopal, Ee-Chien Chang, Collaborative Paradigm of Teaching Penetration Testing using Real-World University Applications, Australasian Computing Education Conference (ACE), 2022.
+Mingyuan Gao, Hung Dang and Ee-Chien Chang, TEEKAP:Self-Expiring Data Capsule using Trusted Execution Environment, Annual Computer Security Applications Conference (ACSAC), 2021.
+Ziqi Yang, Jiyi Zhang, Ee-Chien Chang, Zhenkai Liang,Neural Network Inversion in Adversarial Setting vai Background Knowledge Alignment,ACM Conference on Computer and Communication Security (CCS), 2019.
+Hung Dang, Tien Tuan Anh Dinh, Dumitrel Loghin, Ee-Chien Chang, Qian Lin, Beng Chin Ooi,Towards scaling blockchain systems via sharding (SIGMOD), 2019.
+Hung Dang, Huang Yue, Ee-Chien Chang, Evading Classifiers by Morphing in the Dark, ACM Conference on Computer and Communications Security (CCS), 2017.
+Tien Tuan Anh Dinh, Prateek Saxena, Ee-Chien Chang, Beng Chin Ooi, Chunwang Zhang, M2R: Enabling Stronger Privacy in MapReduce Computation (USENIX Security), 2015.
+Jia Xu, Ee-Chien Chang and Jianying Zhou, Weak Leakage-Resilient Client-side Deduplication of Encrypted Data in Cloud Storage (ASIACCS), 2013.
+Liming Lu, Ee-Chien Chang and Mun Choon Chan, Website Fingerprinting and Identification using Ordered Feature Sequences (ESORICS), 2010.
+Ee-Chien Chang, Ren Shen, and Francis Weijian Teo, Finding the Original Point Set Hidden among Chaff (ASIACCS), 2006
+Ee-Chien Chang, Qiming Li, Hiding Secret Points Amidst Chaff, EUROCRYPT, 2006
+Ee-Chien Chang, Stephane Mallat and Chee Yap, Wavelet Foveation , Journal of Applied and Computational Harmonic Analysis, volume 9, number 3, 2000.",NAN,CS2107: Introduction to Information Security,"Building Knowledge Graphs on Known Attacks
+Cybersecurity knowledge with LLM"
+Ashish Deepak DANDEKAR,"Lecturer (Educator Track), Computer Science",COM2-03-58,660 17631,./images/emails/Ashish_Deepak_Dandekar_email.jpg,./images/photos/Ashish_Deepak_Dandekar.jpg,https://www.comp.nus.edu.sg/cs/people/ashishd,"PhD, School of Computing, National University of Singapore
+Bachelor of Technology, College of Engineering, Pune, India",,"Security
+Data Science & Business Analytics",NAN,Differential Privacy at Risk,NAN,"CS1010S: Programming Methodology
+CS1231S: Discrete Structures
+CS2030S: Programming Methodology II
+IT5006: Fundamentals of Data Analytics","Sustainable ML models
+Maintenance of ML models in real-time"
+DONG Jin Song,"Professor, Computer Science",COM2-03-19,651 64353,./images/emails/Dong_Jin_Song_email.jpg,./images/photos/Dong_Jin_Song.jpg,https://www.comp.nus.edu.sg/cs/people/dongjs,"Ph.D. (University of Queensland, Australia, 1995)
+B.InfTech. (Software Engineering, 1st Class Honours, University of Queensland, Australia, 1992)","Dr. Jin-Song Dong is a professor at the School of Computing at the National University of Singapore (NUS) and he joined NUS in 1998. His research is in the areas of formal methods, safety and security systems, probabilistic reasoning, sports analytics, and trusted machine learning. He co-founded the PAT verification system which has attracted thousands of registered users from 1000+ organizations in 150 countries and won the 20-year ICFEM Most Influential System Award in 2018 (with Jun and Yang). He also co-founded “Silas: Trusted Machine Learning” and the Dependable Intelligence company (www.depintel.com). He received several best paper awards including the ACM SIGSOFT Distinguished Paper Award for ICSE 2020. Jin Song has been on the editorial board of ACM Transaction on Software Engineering and Methodology, Formal Aspects of Computing, and Innovations in Systems and Software Engineering, A NASA Journal. He has successfully supervised 28 PhD students and many of them have become tenured faculty members in leading universities around the world. He is a Fellow of the Institute of Engineers Australia. In his spare time, he developed Markov Decision Process (MDP) models for tennis strategy analysis in PAT and helped professional players in their pre-match analysis (beating the world's best). Jin Song is also a Grand Slam junior coach and enjoys coaching tennis to his 3 kids who all reached the #1 Singapore/Australia national junior ranking (two of his kids received NCAA Division 1 full scholarships, and his 2nd son Chen Dong played #1 singles for Australia in the Junior Davis Cup World Final and played Australian Open and US Open Junior Grand Slams.",Programming Languages & Software Engineering,"time concurrent system, specification, semantic web, formal methods, safety critical systems
+Software Engineering, Formal Methods, Model Checking, Probabilistic Reasoning, Decision Marking, Trusted AI/LLM
+Safety and Security Systems, Autonomous Systems, Blockchain, Sport Analytics","L. Li, J. Sun, Y. Liu, J.S. Dong, M. Sun, A Formal Specification and Verification Framework for Timed Security Protocols, IEEE Transactions on Software Engineering TSE, accepted in May 2017.
+G. Bai, J. Ye, J. Sun, Y. Liu, W. Visser, J.S. Dong, Towards Model Checking Android Applications, IEEE Transactions on Software Engineering TSE, accepted in March 2017.
+T. Wang, J. Sun, Y. Liu, J.S. Dong, X. Li. A Systematic Study on Non-Zenoness Checking for Timed Automata. IEEE Transactions on Software Engineering TSE, 411: 3-18 2015
+J. S. Dong, Y. Liu, J. Sun. Towards Verification of Computation Orchestration. Formal Aspects of Computing FAC journal, Springer, 264: 729-759 2014
+S. Lin, E. Andre, Y. Liu, J. Sun, J. S. Dong, Learning Assumptions for Compositional Verification of Timed Systems, IEEE Transactions on Software Engineering TSE, 402: 137-153 2014
+Y. Li, J. S. Dong, J. Sun, Y. Liu. Model Checking Approach to Automated Planning, Formal Methods in System Design FMSD journal, Springer, 442: 176-202 2014
+Y. Liu, W. Chen, A. Liu, J. S. Dong. Verifying Linearizability via Optimized Refinement Checking. IEEE Transactions on Software Engineering TSE, 397:1018-1039, 2013.
+J. Sun, Y. Liu, J. S. Dong, E. Andre. Modeling and Verifying Hierarchical Real-time Systems using Stateful Timed CSP. ACM Transactions on Software Engineering and Methodology TOSEM, 221:3:13-29, 2013.","Best Paper Award at ICECCS (2015)
+Best Journal Paper Award at Software and Systems Modeling (SSM) journal (2014)
+Best Paper Award at ICECCS (2012)
+ACM SIGSOFT Distinguished Paper Award for ICSE (2020)","CS4211: Formal Methods for Software Engineering
+CS6218: Principles of Prog. Languages & Software Engineering","Sports Analytics using Probabilistic Model Checking and Machine Learning
+Deep Neuron Network Debugging
+An Input Discriminative Approach for Deep Learning Models 
+Input Repair for Deep Neural Networks
+Trustworthy Graph Neural Networks
+Explainable machine learning
+Project Title: Webpage Fingerprinting in the Era of QUIC
+A Graph-based Log Analytics Solution for Anomaly Detection for IT/OT/Cloud Devices
+A Vision-based Approach for Detecting Malicious Webpage
+Analyzing Runtime Behavior of Containerized Service for Security and Maintenance
+Automated Software Testing
+Transformer-based Code Synthesis
+Explaining the Deep Learning Training Process with an Animation
+Automated Software Debugging with Probabilistic Inference"
+Anandha GOPALAN,"Associate Professor (Educator Track), Computer Science",COM2-03-21,651 64426,./images/emails/Anandha_Gopalan_email.jpg,./images/photos/Anandha_Gopalan.jpg,https://www.comp.nus.edu.sg/cs/people/axgopala,NAN,"Anandha enjoys teaching, mentoring, and working with students. His current interests include: Sustainable Computing, EdTech and the use of technology for economic development in low-income countries, especially in the areas of literacy, education, health care and commerce. In his free time, he enjoys travelling, taking long walks, and exploring local neighbourhoods and markets.",NAN,NAN,NAN,NAN,"CS2100: Computer Organisation
+CS2106: Introduction to Operating Systems
+CS5224: Cloud Computing","Energy-Efficient Software Development
+Using AI to improve access to Education and Information in Low-Income Countries
+Using AI to make education inclusive for Special Educational Needs (SEN) students"
+Jungpil HAHN,"Provost's Chair Professor, Information Systems and Analytics",COM3-02-43,651 67345,./images/emails/Jungpil_Hahn_email.jpg,./images/photos/Jungpil_Hahn.jpg,https://www.comp.nus.edu.sg/disa/people/jungpil,"Ph.D. (Information & Decision Sciences, University of Minnesota, Minneapolis, Minnesota, USA, 2003)
+M.B.A. (Business Administration, Yonsei University, Seoul, Korea, 1998)
+B.B.A. (Business Administration, Yonsei University, Seoul, Korea, 1998)","Jungpil Hahn is a Professor in the Department of Information Systems and Analytics and a Provost's Chair Professor at the School of Computing at the National University of Singapore (NUS). He served as Head of the Department of Information Systems and Analytics from July 2015 to June 2021. Prior to joining NUS, he was an Assistant Professor of Management at the Krannert School of Management at Purdue University in West Lafayette (IN) and a Visiting Assistant Professor of Information Systems at the Tepper School of Business at Carnegie Mellon University in Pittsburgh (PA). He holds a Bachelor's and a Master's degree in Business Administration from Yonsei University in Seoul, Korea, and earned his PhD in Information and Decision Sciences from the Carlson School of Management at the University of Minnesota. Professor Hahn's research focuses on open innovation, organisational learning and knowledge management, software development processes, software project management, and human-computer interaction. His work has been published in Management Science, MIS Quarterly, Information Systems Research, Organisation Science, Entrepreneurship Theory and Practice, Journal of Management Information Systems, Information Systems Frontiers, International Journal of Business and Globalisation, Theoretical Issues in Ergonomic Science, the ACM Transactions on Human-Computer Interaction, and the Korean Management Science Review. It has also appeared in the proceedings of major conferences such as the International Conference on Information Systems, the Annual Workshop on HCI Research in MIS, the International Conference on Electronic Commerce, the International Conference on Open Source Systems, the Hawaii International Conference on System Sciences, and the ACM Conference on Human Factors in Computing Systems. His research has been presented at prominent conferences including the INFORMS Annual Meeting, the INFORMS Conference on Information Systems and Technology, the Annual Meeting of the Academy of Management, the Association of Consumer Research Pre-Conference on Consumer Behaviour Online, the Workshop on Information Systems and Economics, the Workshop on Information Technology and Systems, and the Annual Meeting of the Production and Operations Management Society. Professor Hahn has also contributed essays to several edited volumes, including Economics, Information Systems and Electronic Commerce: Empirical Advances (R. J. Kauffman and P. P. Tallon, eds.), IT-enabled Strategic Management: Increasing Returns for the Organisation (B. A. Walters and A. Tang, eds.), and E-Business Management: Integration of Web Technologies with Business Models (M. Shaw, ed.). Professor Hahn has received numerous awards and accolades for his research, teaching, and service. He is a recipient of three ""Best Paper in Track"" Awards for the Sharing Economy, Platforms and Crowd, Advances in Research Methods, and the IS Development and Project Management Tracks at the International Conference on Information Systems (2021 and 2022), the ""Best Paper Award"" at the Workshop on Information Technology and Systems (WITS) in 2016, and the ""Best 2013 Published Paper Award"" from the Organisational Communication and Information Systems (OCIS) Division of the Academy of Management. He was nominated for the ""Best Paper Award"" at the International Conference on Electronic Commerce in 2007, and for the ""Best Division Paper Award"" at the Academy of Management in 2011 (Organisation and Management Theory Division) and 2017 (Entrepreneurship Division). Professor Hahn was named ""Krannert Distinguished Teacher"" multiple times in the MBA programme at the Krannert Graduate School of Management, and received the Faculty Teaching Excellence Award (FTEA) at the NUS School of Computing in 2014. His contributions to the academic community were also recognised when he was named ""Outstanding Reviewer"" for IEEE Internet Computing in 2002 and awarded the ""Best Reviewer Award"" in 2009 by the INFORMS Information Systems Society for his outstanding service to Information Systems Research. He has served as Associate Editor of Information Systems Research and is currently a Senior Editor of MIS Quarterly.","Digital Transformation, Platforms & Innovation
+Computational Social Science
+Data Science & Business Analytics
+FinTech","IT-enabled Open Innovation; Digital Innovation; Crowd-based Innovation; Crowdsourcing and Crowdfunding
+Organizational Learning; Computational Organization Theory
+Software Development Projects and Processes
+Data Science
+Privacy Enhancing Technologies
+Blockchain; Algorithmic Governance","Hahn, J., Zhou, J., Lee, G. and Zorin, V. (2025) “Organizing for Software Product Development: The Effects of Team Structure, Product Complexity, and Cross-Team Coordination,” Information Systems Research.
+Chesterman, S., Gao, Y., Hahn, J. and Sticher, V. (2024) “The Evolution of AI Governance,” IEEE Computer, 57(9), pp. 80-92.
+Wang, Z., Yang, L., Karamshetty, V. and Hahn, J. (2024) ""Crowdlending Behaviors in the Aftermath of a Crisis: Evidence From a Natural Experiment,"" Production and Operations Management, 33(1), pp. 243-263.
+Müller-Bloch, C., Valbjørn Andersen, J., Spasovski, J. and Hahn, J. (2024) “Understanding Decentralization in Proof-of-Stake Blockchains: An Agent-Based Simulation Approach,” European Journal of Information Systems, 33(3), pp. 267-286.
+Wang, Z., Yang, L. and Hahn, J. (2023) “Winner Takes All? The ‘Blockbuster Effect’ in Crowdfunding Platforms,” Information Systems Research, 34(3), 935-960.
+Peng, J., Hahn, J. and Huang, K.-W. (2023) ""Handling Missing Values in Information Systems Research: A Review of Methods and Assumptions,"" Information Systems Research, 34(1), 5-26.
+Ryu, S., Kim, K. and Hahn, J. (2022) “Crowdfunding Success Effects on Financing Outcomes for Startups: A Signaling Theory Perspective,” MIS Quarterly, vol. 47, no. 3, pp. 1271-1302.
+Hahn, J. and Lee, G. 2021 ""The Complex Effects of Cross-Domain Knowledge on IS Development: A Simulation-Based Theory Development,"" MIS Quarterly, 45(4), pp. 2022-2054.
+Jiang, H., Wang, Z., Yang, L., Shen, J. and Hahn, J. 2021 ""How Rewarding Are Your Rewards? A Value-Based View of Crowdfunding Rewards and Crowdfunding Performance,"" Entrepreneurship Theory and Practice,453, pp. 562-599.
+Yang, L., Wang, Z. and Hahn, J. 2020 ""Scarcity Strategy in Crowdfunding: An Empirical Exploration of Reward Limits,"" Information Systems Research, 314, pp. 1107-1131.
+Kang, K., Hahn, J. and De, P. 2017 ""Learning Effects of Domain, Technology, and Customer Knowledge in Information Systems Development: An Empirical Study,"" Information Systems Research, 284, pp. 797-811.
+Oh, W., Moon, J.Y., Hahn, J., and Kim, T. 2016 ""Leader Influence on Sustained Participation in Online Collaborative Work Communities: A Simulation-based Approach,"" Information Systems Research, 272, pp. 383-402.
+Hahn, J. and Kim, J. 1999 ""Why are Some Diagrams Easier to Work With?: Effects of Diagrammatic Representation on the Cognitive Integration Process of Systems Analysis and Design,"" ACM Transactions on Computer Human Interaction, 63, pp. 181-213.
+Kankanhalli, A., Hahn, J., Tan, S. and Gao, G. 2016 ""[Guest Editorial] Big Data and Analytics in Healthcare: Introduction to the Special Issue,""Information Systems Frontiers, 182 Special Section on Big Data and Analytics in Healthcare, pp. 233-235.
+Zhang, C., Hahn, J. and De, P. 2013 ""Continued Participation in Online Innovation Communities: Does Community Response Matter Equally for Everyone?"" Information Systems Research, 244 pp. 1112-1130.
+Lehman, D.W. and Hahn, J. 2013 ""Momentum and Organizational Risk Taking: Evidence from the National Football League,"" Management Science, 594, pp. 852-8680.
+Hong, S.J., Lui, C., Hahn, J., Moon, J. Y. and Kim, T.K. 2013 ""How Old are You Really?: Cognitive Age in Technology Acceptance,"" Decision Support Systems, 56, pp. 122-130.
+Kim, J., Hahn, J. and Hahn, H. 2000 ""How Can We Understand a System with So Many Diagrams: Cognitive Integration Processes in Diagrammatic Reasoning,"" Information Systems Research, 113, pp. 284-303.
+Lehman, D.W., Hahn, J., Ramajuman, R. and Alge, B. 2011 ""Performance Periods and the Dynamics of the Performance-Risk Relationship,""Organization Science, 226, pp. 1613-1630.
+Han, K., Chang, Y.B., and Hahn, J. 2011 ""IT Intensity, Competition, and Inter-industry IT Spillover,"" Journal of Management Information Systems, 281, pp. 117-147.
+Hahn, J. and Wang, T.-W. 2009 ""Knowledge Management Systems and Organizational Knowledge Processing Challenges,"" Decision Support Systems, 474, pp. 332-342.
+Hahn, J., Moon, J.Y. and Zhang, C. 2008 ""Emergence of New Project Teams from Open Source Software Developer Networks: Impact of Prior Collaboration Ties,"" Information Systems Research, 193, pp. 369-391.","Best Conference Paper Award (2nd Runner Up), Blockchain, DLT and Fintech Track, International Conference on Information Systems (ICIS), December 2023.
+Best Conference Paper Award (Nominee), Cybersecurity and Privacy Track, International Conference on Information Systems (ICIS), December 2023.
+AIS Distinguished Member, June 2022
+Best Paper in Track Award (Sharing Economy, Platforms and Crowd Track), International Conference on Information Systems (ICIS), December 2021.
+Best Completed Research Paper Award, International Conference on Information Systems (ICIS), December 2020.
+Best Paper in Track Award (IS Development and Project Management Track), International Conference on Information Systems (ICIS), December 2020.
+Best Paper in Track Award (Advances in Research Methods Track), International Conference on Information Systems (ICIS), December 2020.
+Best Paper Award, Workshop on Information Technology and Systems (WITS), December 2016.
+Faculty Teaching Excellence Award (FTEA), AY2013-14, School of Computing, National University of Singapore, 2014
+Best 2013 Published Paper Award, OCIS Division, Academy of Management, August 2014
+ISR Best Reviewer, INFORMS Information Systems Society and Information Systems Research, October 2009","AI5205: Ethics, Governance, and Compliance in AI and Emerging Technologies
+IS5010: AI Ethics and Governance",NUS FinTech  Lab Project
+HE Bingsheng,"Professor, Computer Science",COM3-02-12,651 67998,./images/emails/He_Bingsheng_email.jpg,./images/photos/He_Bingsheng.jpg,https://www.comp.nus.edu.sg/cs/people/hebs,"Ph.D. (Computer Science, Hong Kong University of Science & Technology, 2008)
+B.E. and B.B.A. (Computer Science & Engineering, 2nd Major: Business Administration, Shanghai Jiao Tong University, China, 2003)","Dr. Bingsheng He is currently a Professor at Department of Computer Science, National University of Singapore. Before joining NUS in May 2016, he held a research position in the System Research group of Microsoft Research Asia (2008-2010) and a faculty position at Nanyang Technological University, Singapore. He got his Bachelor degree in Shanghai Jiao Tong University (1999-2003), and his Ph.D. degree in Hong Kong University of Science & Technology (2003-2008). Bingsheng has served as a PC member for international conferences in databases (e.g.,ACM SIGMOD, VLDB, IEEE ICDE), cloud computing (e.g., ACM SoCC) and parallel and distributed systems (e.g., SC, HPDC and IPDPS), and as a demo co-Chair in VLDB 2017, PC co-Chair in IEEE CloudCom 2014/2015 , HardBD2016 and IEEE BigData Congress 2018. He has served on editorial boards of international journals, including IEEE Transactions on Cloud Computing (IEEE TCC), IEEE Transactions on Parallel and Distributed Systems (IEEE TPDS). His current research interests include Big data management systems (with special interests in cloud computing and emerging hardware systems), Parallel and distributed systems and Cloud Computing. His papers are published in prestigious international journals (such as ACM TODS and IEEE TKDE/TPDS/TC) and proceedings (such as ACM SIGMOD, VLDB/PVLDB, ACM/IEEE SuperComputing, ACM HPDC, and ACM SoCC). He is affiliated with both the Systems and Networking group and the Database group at NUS.","Database
+Systems & Networking","Big Data Systems On New Hardware
+Cloud Computing
+High Performance Computing
+Data System Research and Applications on Emerging Architectures (GPU, many-core CPU and FPGA, NVRAM/NVM, and cloud computing etc)","Amelie Chi Zhou*, Yifan Gong*, Bingsheng He and Jidong Zhai. Efficient Process Mapping in Geo-Distributed Cloud Data Centers. SC17: International Conference for High Performance Computing, Networking, Storage and Analysis 2017.
+Haikun Liu, Yujie Chen, Xiaofei Liao, Hai Jin, Long Zheng and Bingsheng He. Hardware/Software Cooperative Caching for Hybrid DRAM/NVM Memory Architectures. ACM ICS 2017: 2017 International Conference on Supercomputing. [Acceptance rate: 28/117]
+Amelie Chi Zhou*, Shadi Ibrahim, Bingsheng He. On Achieving Efficient Data Transfer for Graph Processing in Geo-Distributed Datacenters. ICDCS 2017: International Conference on Distributed Computing Systems.
+Kai Zhang^, Jiayu Hu, Bingsheng He, Bei Hua. DIDO: Dynamic Pipelines for In-Memory Key-Value Stores on Coupled CPU-GPU Architectures. ICDE 2017: IEEE International Conference on Data Engineering ICDE, 2017.
+Shuhao Zhang*, Bingsheng He, Daniel Dahlmeier, Chi Zhou and Thomas Heinze. Revisiting the Design of Data Stream Processing Systems on Multi-Core Processors. ICDE 2017: IEEE International Conference on Data Engineering ICDE, 2017.
+Shanjiang Tangˆ, Bingsheng He, Shuhao Zhang*, Zhaojie Niu*. Elastic Multi-Resource Fairness: Balancing Fairness and Efficiency in Coupled CPU-GPU Architectures. SC16: International Conference for High Performance Computing, Networking, Storage and Analysis 2016.
+Paul Johns*, Jiong He*, Bingsheng He. GPL: A GPU-based Pipelined Query Processing Engine. SIGMOD 2016: ACM SIGMOD International Conference on Management of data, 2016.
+Shuang Chen*, Shunning Jiang*, Bingsheng He, Xueyan Tang. A Study of Sorting Algorithms on Approximate Memory. SIGMOD 2016: ACM SIGMOD International Conference on Management of data, 2016.","2017 IEEE/ACM WILLIAM J. MCCALLA ICCAD BEST PAPER AWARD (Front End) (for the work “Jieru Zhao, Liang Feng, Wei Zhang, Sharad Sinha, Yun (Eric) Liang, Bingsheng He. COMBA: A Comprehensive Model-Based Analysis Framework for High Level Synthesis of Real Applications.”). https://iccad.com/award_recipients
+IEEE IC2E 2016 Best Paper Runner Up (for the work “Zhaojie Niu, Bingsheng He and Fangming Liu. Not All Joules are Equal: Towards Energy-Efficient and Green-Aware Data Processing Frameworks”).
+Top-quality papers of FPL 2015 (for the work “Zeke Wang^, Bingsheng He, Wei Zhang. A Study of Data Partitioning on OpenCL-based FPGA”).
+IEEE CloudCom 2014 Best Ph.D. Consortium Paper Award (for the work “Amelie Chi Zhou* and Bingsheng He. Simplified Monetary Optimizations for Workflows in IaaS Clouds”).
+Best Demo Award in IEEE SECON 2014 (for the work “Wan Du, Mo Li, Zikun Xing, Bingsheng He, Lloyd Hock Chye Chua, Zhenjiang Li, Yuanqiang Zheng and Pengfei Zhou, Demo Abstract: Wind Measurements for Water Quality Studies in Urban Reservoirs.”).
+Spotlight article of IEEE Transactions on Cloud Computing March 2014, vol. 2 no. 1. http://www.computer.org/csdl/trans/cc/2014/01/06702454.pdf. (for the work “Amelie Chi Zhou* and Bingsheng He, Transformation-based Monetary Cost Optimizations for Workflows in the Cloud.”)
+“Best system demos” in VLDB 2013 (for the work “Jianlong Zhong*, Bingsheng He. Parallel Graph Processing on Graphics Processors Made Easy”, out of 140+ submissions, invited submission to SIGMOD Record).
+“Best research papers” in ACM SIGMOD 2008 (for the work “Bingsheng He, Ke Yang, Rui Fang, Mian Lu, Naga K. Govindaraju, Qiong Luo, Pedro V. Sander. Relational Joins on Graphics Processors”, invited submission to ACM TODS).","CS4225: Big Data Systems for Data Science
+CS5425: Big Data Systems for Data Science","Building No-Code Trading Systems with LLM 
+Improving Question Answer and Summarization with Large Language Models
+Improving Natural Language to SQL (NL2SQL) with Large Language Models
+Multi-Choice Multi-Discipline Questions Answering for Large Language Models (LLMs)
+Multi-Choice Multi-Discipline Questions Answering for Large Language Models (LLMs)
+Performance Optimization of Inference for Large Language Models (LLMs)"
+"HENZ, Martin J","Associate Professor, Computer Science",COM3-02-05,651 66632,./images/emails/Henz_Martin_J_email.jpg,./images/photos/Henz_Martin_J.jpg,https://www.comp.nus.edu.sg/cs/people/henz,"M.Sc. (Computer Science, Stony Brook University, 1993)
+Dr.rer.nat. (Computer Science, Saarland University, 1997)","Martin HENZ is an Associate Professor in the Department of Computer Science, National University of Singapore. He obtained his M.Sc. from the University of Stony Brook in 1992 and his Dr.rer.nat. from the Saarland University in 1997. He has been a research scientist at the German Research Centre for Artificial Intelligence. His current research and teaching revolves around the scalability of experiential learning. With his NUS colleagues, he has scaled the experiential course CS1101S (computer science introduction) from 48 students in 2012 to 670 students in 2021. He founded the experiential course CS4215 Programming Language Implementation, and offers experiential undergraduate software projects. He has published in a wide range of areas, including computer science and engineering education, programming languages, combinatorial search, and electric vehicles. His work on CS1101S culminated in the textbook ""Structure and Interpretation of Computer Programs, JavaScript Edition"", by Harold Abelson and Gerald J. Sussman, adapted to JavaScript by Martin Henz and Tobias Wrigstad, published by MIT Press in April 2022. CS1101S also motivated the development of the Source Academy, an immersive online experiential environment for learning programming used in CS1101S and at the University of San Francisco. He co-founded the software company Workforce Optimizer Pte Ltd with Alan Sevugan, and supervised Rahul Singhal's PhD, which led to the formation of the education company Cerebry.","Programming Languages & Software Engineering
+Artificial Intelligence","Scalable Experiential Learning
+Systems For Teaching and Learning
+A.I. in Education
+Programming Languages","Structure and Interpretation of Computer Programs, JavaScript Edition. Harold Abelson and Gerald Jay Sussman, adapted to JavaScript by Martin Henz and Tobias Wrigstad, with Julie Sussman. MIT Press. ISBN: 9780262543231
+Shrinking JavaScript for CS1. Boyd Anderson, Martin Henz, Kok-Lim Low, Daryl Tan. Proceedings of the 2021 ACM SIGPLAN International SPLASH-E Symposium (SPLASH-E '21), ACM, New York, NY. 20 Oct 2021.
+A Framework for Automated Generation of Questions Based on First-Order Logic. Rahul Singhal, Shubham Goyal, and Martin Henz. Artificial Intelligence in Education 2015. LNCS 9112: 776-780.
+Scheduling a Major College Basketball Conference—Revisited. Martin Henz. Operations Research, 491, Jan/Feb 2001.
+Oz—A Programming Language for Multi-Agent Systems. Martin Henz, Gert Smolka, Jörg Würtz. IJCAI 1993.","NUS Annual Digital Education Award (ADEA), team leader, 2021
+NUS Annual Teaching Excellence Award, Academic Year 2016/17
+Startup @ Singapore and Startup @ Asia, entrepreneurship competitions, Champion, 2001, with Alan Sevugan for work on FriarTuck Pte Ltd, now Workforce Optimizer Pte Ltd
+Fulbright Scholarship (1990)","CS1101S: Programming Methodology
+NN3880: ATAP/SIP Coordinator",Python in Source Academy
+JIANG KAN,"Lecturer (Educator Track), Computer Science",COM2-03-24,660 17637,./images/emails/Jiang_Kan_email.jpg,./images/photos/Jiang_Kan.jpg,https://www.comp.nus.edu.sg/cs/people/jiangkan,"Ph.D. (Computer Science, National University of Singapore, 2023)
+MComp (National University of Singapore, 2017)
+B.Sc. (Shanghai Jiao Tong University, 1994)","Dr. Jiang Kan, a lecturer in the Computer Science department, teaches programming, computer organization, software engineering, and database courses to both full-time and part-time students. Beyond teaching, he conducts cutting-edge sports analytics research, focusing on sports video analytics using computer vision and strategy analysis using probabilistic modeling.",Programming Languages & Software Engineering,"Probabilistic Model Checking
+Computer Vision
+Sports Analytics","Liu, Zhaoyu, Kan Jiang, Zhe Hou, Yun Lin, and Jin Song Dong. ""Insight Analysis for Tennis Strategy and Tactics."" In 2023 IEEE International Conference on Data Mining (ICDM), pp. 1169-1174. IEEE, 2023.
+Dong, Jin Song, Kan Jiang, Zhaoyu Liu, Chen Dong, Zhe Hou, Rajdeep Singh Hundal, Jingyu Guo, and Yun Lin. ""Sports Analytics Using Probabilistic Model Checking and Deep Learning."" In 2023 27th International Conference on Engineering of Complex Computer Systems (ICECCS), pp. 7-11. IEEE, 2023.
+Jiang, Kan, Jiayu Li, Zhaoyu Liu, and Chen Dong. ""Court Detection Using Masked Perspective Fields Network."" In 2023 IEEE 28th Pacific Rim International Symposium on Dependable Computing (PRDC), pp. 342-345. IEEE, 2023.
+Jiang, Kan, Masoumeh Izadi, Zhaoyu Liu, and Jin Song Dong. ""Deep Learning Application in Broadcast Tennis Video Annotation."" In 2020 25th International Conference on Engineering of Complex Computer Systems (ICECCS), pp. 53-62. IEEE, 2020.
+Siddharth, Satish, Sircar Saurav, Jiang Kan, Wadhwa Bimlesh, and Dong Jin Song. ""Model Driven Inputs to aid Athlete's Decision Making."" In 2020 27th Asia-Pacific Software Engineering Conference (APSEC), pp. 485-489. IEEE, 2020.
+Jin Song Dong, Ling Shi, Kan Jiang, and Jing Sun: Sports Strategy Analytics Using Probabilistic Reasoning. In: Proceedings of the 2015 20th International Conference on Engineering of Complex Computer Systems (ICECCS '15)",NAN,"TCX1001: Introduction to Computing
+TCX1002: Introduction to Programming
+TCX2003: Database Systems and Management
+TCX3222: Systems Programming","Enhancing Sports Strategy with Video Analytics and Data Mining
+Trustworthy AI agent: Formal Methods with Large Language Models"
+Varun KARAMSHETTY,"Assistant Professor, Information Systems and Analytics",COM3-02-39,651 64091,./images/emails/Varun_Karamshetty_email.jpg,./images/photos/Varun_Karamshetty.jpg,https://www.comp.nus.edu.sg/disa/people/varunk,"BS and MS in Applied Mathematics, Indian Institute of Science Education and Research, Pune, India
+Ph.D. in Technology and Operations Management, INSEAD","Varun Karamshetty is an Assistant Professor in the Department of Information Systems and Analytics at School of Computing, National University of Singapore (NUS). He received his PhD in Technology and Operations Management from INSEAD and Master's degree in Applied Mathematics from Indian Institute of Science Education and Research, Pune. Varun's research tackles problems at the intersection of Information Systems (IS) and Operations Management (OM), with a special emphasis on topics related to sustainability and social impact. He works closely with firms across various sectors—such as food and beverage, public utilities, pharmaceuticals, and e-commerce—in the Asia-Pacific, Europe, and the United Kingdom. In his work, he employs econometrics and machine learning techniques on proprietary data to tease out causal relationships and derive managerial insights.","Data Science & Business Analytics
+Digital Transformation, Platforms & Innovation","Digital Platforms and Sharing Economy
+Sustainability and Social Impact
+Management of Algorithms
+Applied Econometrics
+RCTs and Field Experiments","Wang, Z., Yang, L., Karamshetty, V., & Hahn, J. (2024). Crowdlending Behaviors in the Aftermath of a Crisis: Evidence From a Natural Experiment. Production and Operations Management, 33(1), 243-263.
+Chen, Christopher; Jain, Nitish; and Karamshetty, Varun, ""Algorithm-Human-Algorithm: A New Classification Approach to Integrating Judgemental Adjustments"" (2023). ICIS 2023 Proceedings. 24.
+Karamshetty, V., De Vries, H., Van Wassenhove, L. N., ... & Yadav, P. (2022). Inventory management practices in private healthcare facilities in Nairobi county. Production and Operations Management, 31(2), 828-846.
+Karamshetty, Varun; Freeman, Michael; and Hasija, Sameer, ""An Unintended Consequence of Platform Dependence: Empirical Evidence from IT-enabled Food-Delivery Platforms"" (2022). ICIS 2022 Proceedings. 2.","Outstanding Computing Project Prize (2025)
+Faculty Teaching Excellence Award (2023)
+Faculty Teaching Excellence Award (2022)","BT4103: Business Analytics Capstone Project
+IS5003: Platform Design and Economy","Analytics for Social Impact and Sustainability
+Using NLP for studying digital user behavior
+Analytics for sustainability and social impact 
+Human-AI collaboration for image classification"
+Kenji KAWAGUCHI,"NUS Presidential Young Professor, Computer Science",COM3-02-52,NAN,./images/emails/Kenji_Kawaguchi_email.jpg,./images/photos/Kenji_Kawaguchi.jpg,https://www.comp.nus.edu.sg/cs/people/kenji,"Postdoctoral Fellow, Harvard University
+Ph.D. in Computer Science, MIT
+S.M. in EECS, MIT","Kenji Kawaguchi is a Presidential Young Professor in the Department of Computer Science at NUS. Kenji Kawaguchi received his Ph.D. in Computer Science from the Massachusetts Institute of Technology (MIT). He then joined Harvard University as a postdoctoral fellow. He was also an invited participant at the University of Cambridge, Isaac Newton Institute for Mathematical Sciences programme on ""Mathematics of Deep Learning"". He was one of 77 invited participants from around the world. His research interests include deep learning, as well as artificial intelligence (AI) in general. His research group aims to have a positive feedback loop between theory and practice in deep learning research through collaborations with researchers from both the practice and theory sides.","Artificial Intelligence
+Algorithms & Theory","Deep Learning
+Large Language Models (LLMs)","Zekun Shi, Zheyuan Hu, Min Lin and Kenji Kawaguchi. Stochastic Taylor Derivative Estimator: Efficient amortization for arbitrary differential operators. In Advances in Neural Information Processing Systems (NeurIPS), 2024. [Received the Best Paper Award at NeurIPS 2024].
+Qianli Shen, Yezhen Wang, Zhouhao Yang, Xiang Li, Haonan Wang, Yang Zhang, Jonathan Scarlett, Zhanxing Zhu and Kenji Kawaguchi. Memory-Efficient Gradient Unrolling for Large-Scale Bi-level Optimization. In Advances in Neural Information Processing Systems (NeurIPS), 2024.
+Yiran Zhao, Wenyue Zheng, Tianle Cai, Do Xuan Long, Kenji Kawaguchi, Anirudh Goyal and Michael Shieh. Accelerating Greedy Coordinate Gradient and General Prompt Optimization via Probe Sampling. In Advances in Neural Information Processing Systems (NeurIPS), 2024.
+Yiran Zhao, Wenxuan Zhang, Guizhen Chen, Kenji Kawaguchi and Lidong Bing. How do Large Language Models Handle Multilingualism?. In Advances in Neural Information Processing Systems (NeurIPS), 2024.
+Haonan Wang, Qianli Shen, Yao Tong, Yang Zhang and Kenji Kawaguchi. The Stronger the Diffusion Model, the Easier the Backdoor: Data Poisoning to Induce Copyright Breaches Without Adjusting Finetuning Pipeline. International Conference on Machine Learning (ICML), 2024. [ICML oral presentation]
+Brian K Chen, Tianyang Hu, Hui Jin, Hwee Kuan Lee and Kenji Kawaguchi. Exact Conversion of In-Context Learning to Model Weights in Linearized-Attention Transformers. International Conference on Machine Learning (ICML), 2024.
+Md Rifat Arefin, Yan Zhang, Aristide Baratin, Francesco Locatello, Irina Rish, Dianbo Liu and Kenji Kawaguchi. Unsupervised Concept Discovery Mitigates Spurious Correlations. International Conference on Machine Learning (ICML), 2024.
+Jiajun Ma, Shuchen Xue, Tianyang Hu, Wenjia Wang, Zhaoqiang Liu, Zhenguo Li, Zhi-Ming Ma and Kenji Kawaguchi. The Surprising Effectiveness of Skip-Tuning in Diffusion Sampling. International Conference on Machine Learning (ICML), 2024.
+Chang Chen, Junyeob Baek, Fei Deng, Kenji Kawaguchi, Caglar Gulcehre and Sungjin Ahn. PlanDQ: Hierarchical Plan Orchestration via D-Conductor and Q-Performer. International Conference on Machine Learning (ICML), 2024.
+Seul Lee, Seanie Lee, Kenji Kawaguchi and Sung Ju Hwang. Drug Discovery with Dynamic Goal-aware Fragments. International Conference on Machine Learning (ICML), 2024.
+Shihao Zhang, Kenji Kawaguchi and Angela Yao. Deep Regression Representation Learning with Topology. International Conference on Machine Learning (ICML), 2024.
+Xiang Li, Qianli Shen and Kenji Kawaguchi. VA3: Virtually Assured Amplification Attack on Probabilistic Copyright Protection for Text-to-Image Generative Models. Computer Vision and Pattern Recognition Conference (CVPR), 2024.
+Sihang Li, Zhiyuan Liu, Yanchen Luo, Xiang Wang, Xiangnan He, Kenji Kawaguchi, Tat-Seng Chua and Qi Tian. Towards 3D Molecule-Text Interpretation in Language Models. In International Conference on Learning Representations (ICLR), 2024.
+Chang Chen, Fei Deng, Kenji Kawaguchi, Caglar Gulcehre and Sungjin Ahn. Simple Hierarchical Planning with Diffusion. In International Conference on Learning Representations (ICLR), 2024.
+Yingtian Zou, Kenji Kawaguchi, Yingnan Liu, Jiashuo Liu, Mong-Li Lee and Wynne Hsu. Towards Robust Out-of-Distribution Generalization Bounds via Sharpness. In International Conference on Learning Representations (ICLR), 2024.
+Juncheng Liu, Bryan Hooi, Kenji Kawaguchi, Yiwei Wang, Chaosheng Dong and Xiaokui Xiao. Scalable and Effective Implicit Graph Neural Networks on Large Graphs. In International Conference on Learning Representations (ICLR), 2024.
+Dong Bok Lee, Seanie Lee, Joonho Ko, Kenji Kawaguchi, Juho Lee and Sung Ju Hwang. Self-Supervised Dataset Distillation for Transfer Learning. In International Conference on Learning Representations (ICLR), 2024.
+Xuan Long Do, Yiran Zhao, Hannah Brown, Yuxi Xie, James Xu Zhao, Nancy F Chen, Kenji Kawaguchi, Michael Qizhe Xie and Junxian He. Prompt Optimization via Adversarial In-Context Learning. Annual Meeting of the Association for Computational Linguistics (ACL), 2024.
+Zhiyuan Liu, An Zhang, Hao Fei, Enzhi Zhang, Xiang Wang, Kenji Kawaguchi and Tat-Seng Chua. ProtT3: Protein-to-Text Generation for Text-based Protein Understanding. Annual Meeting of the Association for Computational Linguistics (ACL), 2024.
+Zhiyuan Liu, Yaorui Shi, An Zhang, Sihang Li, Enzhi Zhang, Xiang Wang, Kenji Kawaguchi and Tat-Seng Chua. ReactXT: Understanding Molecular ""Reaction-ship"" via Reaction-Contextualized Molecule-Text Pretraining. In Findings of the Association for Computational Linguistics (Findings of ACL), 2024.
+Yang Zhang, Teoh Tze Tzun, Lim Wei Hern, Tiviatis Sim and Kenji Kawaguchi. Enhancing Semantic Fidelity in Text-to-Image Synthesis: Attention Regulation in Diffusion Models. European Conference on Computer Vision (ECCV), 2024.
+Kenji Kawaguchi*, Zhun Deng*, Xu Ji* and Jiaoyang Huang. How Does Information Bottleneck Help Deep Learning? International Conference on Machine Learning (ICML), 2023.
+Yingtian Zou*, Vikas Verma*, Sarthak Mittal, Wai Hoh Tang, Hieu Pham, Juho Kannala, Yoshua Bengio, Arno Solin, Kenji Kawaguchi. MixupE: Understanding and improving mixup from directional derivative perspective. Uncertainty in Artificial Intelligence (UAI), 2023. [Received the Best Student Paper Award of UAI 2023]
+Qianli Shen, Wai Hoh Tang, Zhun Deng, Apostolos Psaros, Kenji Kawaguchi. PICProp: Physics-Informed Confidence Propagation for Uncertainty Quantification. In Advances in Neural Information Processing Systems (NeurIPS), 2023.
+Yuxi Xie, Kenji Kawaguchi, Yiran Zhao, Xu Zhao, Min-Yen Kan, Junxian He, Qizhe Xie. Decomposition Enhances Reasoning via Self-Evaluation Guided Decoding. In Advances in Neural Information Processing Systems (NeurIPS), 2023.
+Zhiyuan Liu, Yaorui Shi, An Zhang, Enzhi Zhang, Kenji Kawaguchi, Xiang Wang, Tat-Seng Chua. Rethinking Tokenizer and Decoder in Masked Graph Modeling for Molecules. In Advances in Neural Information Processing Systems (NeurIPS), 2023.
+Minki Kang, Seanie Lee, Jinheon Baek, Kenji Kawaguchi, Sung Ju Hwang. Knowledge-Augmented Reasoning Distillation for Small Language Models in Knowledge-Intensive Tasks. In Advances in Neural Information Processing Systems (NeurIPS), 2023.
+Ravid Shwartz-Ziv, Randall Balestriero, Kenji Kawaguchi, Tim G. J. Rudner, Yann LeCun. An Information Theory Perspective on Variance-Invariance-Covariance Regularization. In Advances in Neural Information Processing Systems (NeurIPS), 2023.
+Dianbo Liu, Moksh Jain, Bonaventure F. P. Dossou, Qianli Shen, Salem Lahlou, Anirudh Goyal, Nikolay Malkin, Chris Chinenye Emezue, Dinghuai Zhang, Nadhir Hassen, Xu Ji, Kenji Kawaguchi and Yoshua Bengio. GFlowOut: Dropout with Generative Flow Networks. International Conference on Machine Learning (ICML), 2023.
+Frederik Träuble, Anirudh Goyal, Nasim Rahaman, Michael Curtis Mozer, Kenji Kawaguchi, Yoshua Bengio and Bernhard Schölkopf. Discrete Key-Value Bottleneck. International Conference on Machine Learning (ICML), 2023.
+Jeffrey Willette, Seanie Lee, Bruno Andreis, Kenji Kawaguchi, Juho Lee and Sung Ju Hwang. Scalable Set Encoding with Universal Mini-Batch Consistency and Unbiased Full Set Gradient Approximation. International Conference on Machine Learning (ICML), 2023.
+Aviv Shamsian, Aviv Navon, Neta Glazer, Kenji Kawaguchi, Gal Chechik and Ethan Fetaya. Auxiliary Learning as an Asymmetric Bargaining Game. International Conference on Machine Learning (ICML), 2023.
+Seanie Lee, Minki Kang, Juho Lee, Sung Ju Hwang and Kenji Kawaguchi. Self-Distillation for Further Pre-training of Transformers. In International Conference on Learning Representations (ICLR), 2023.
+Samuel Lavoie, Christos Tsirigotis, Max Schwarzer, Ankit Vani, Michael Noukhovitch, Kenji Kawaguchi and Aaron Courville. Simplicial Embeddings in Self-Supervised Learning and Downstream Classification. In International Conference on Learning Representations (ICLR), 2023. [notable-top-25%]
+Tianbo Li, Min Lin, Zheyuan Hu, Kunhao Zheng, Giovanni Vignale, Kenji Kawaguchi, A.H. Castro Neto, Kostya S. Novoselov and Shuicheng YAN. D4FT: A Deep Learning Approach to Kohn-Sham Density Functional Theory. In International Conference on Learning Representations (ICLR), 2023. [notable-top-25%]
+Dong Bok Lee, Seanie Lee, Kenji Kawaguchi, Yunji Kim, Jihwan Bang, Jung-Woo Ha and Sung Ju Hwang. Self-Supervised Set Representation Learning for Unsupervised Meta-Learning. In International Conference on Learning Representations (ICLR), 2023.
+Zhiyuan Liu, Sihang Li, Yanchen Luo, Hao Fei, Yixin Cao, Kenji Kawaguchi, Xiang Wang, Tat-Seng Chua. MolCA: Molecular Graph-Language Modeling with Cross-Modal Projector and Uni-Modal Adapter. In Empirical Methods in Natural Language Processing (EMNLP), 2023.
+Xu Zhao, Yuxi Xie, Kenji Kawaguchi, Junxian He, Qizhe Xie. Automatic Model Selection with Large Language Models for Reasoning. In Findings of Empirical Methods in Natural Language Processing (Findings of EMNLP), 2023.
+Kenji Kawaguchi, Zhun Deng, Kyle Luh, Jiaoyang Huang. Robustness Implies Generalization via Data-Dependent Generalization Bounds. International Conference on Machine Learning (ICML), 2022. [Selected for ICML long presentation (2% accept rate)]
+Aviv Navon, Aviv Shamsian, Idan Achituve, Haggai Maron, Kenji Kawaguchi, Gal Chechik, Ethan Fetaya. Multi-Task Learning as a Bargaining Game. International Conference on Machine Learning (ICML), 2022.
+Linjun Zhang*, Zhun Deng*, Kenji Kawaguchi, James Zou. When and How Mixup Improves Calibration. International Conference on Machine Learning (ICML), 2022.
+Juncheng Liu, Bryan Hooi, Kenji Kawaguchi and Xiaokui Xiao. MGNNI: Multiscale Graph Neural Networks with Implicit Layers. Advances in Neural Information Processing Systems (NeurIPS), 2022.
+Riashat Islam, Hongyu Zang, Anirudh Goyal, Alex Lamb, Kenji Kawaguchi, Xin Li, Romain Laroche, Yoshua Bengio and Remi Tachet des Combes. Discrete Compositional Representations as an Abstraction for Goal Conditioned Reinforcement Learning. Advances in Neural Information Processing Systems (NeurIPS), 2022.
+Seanie Lee*, Bruno Andreis*, Kenji Kawaguchi, Juho Lee and Sung Ju Hwang. Set-based Meta-Interpolation for Few-Task Meta-Learning. Advances in Neural Information Processing Systems (NeurIPS), 2022.
+Zheyuan Hu, Ameya Jagtap, George Em Karniadakis and Kenji Kawaguchi. When Do Extended Physics-Informed Neural Networks (XPINNs) Improve Generalization?. SIAM Journal on Scientific Computing, 44 (5), pp. A3158-A3182, 2022.
+Kenji Kawaguchi. On the Theory of Implicit Deep Learning: Global Convergence with Implicit Layers. In International Conference on Learning Representations (ICLR), 2021. [Selected for ICLR Spotlight (5% accept rate)]
+Linjun Zhang*, Zhun Deng*, Kenji Kawaguchi*, Amirata Ghorbani and James Zou. How Does Mixup Help With Robustness and Generalization? In International Conference on Learning Representations (ICLR), 2021. [Selected for ICLR Spotlight (5% accept rate)]
+Keyulu Xu*, Mozhi Zhang, Stefanie Jegelka and Kenji Kawaguchi*. Optimization of Graph Neural Networks: Implicit Acceleration by Skip Connections and More Depth. International Conference on Machine Learning (ICML), 2021.
+Vikas Verma, Minh-Thang Luong, Kenji Kawaguchi, Hieu Pham and Quoc V Le. Towards Domain-Agnostic Contrastive Learning. International Conference on Machine Learning (ICML), 2021.
+Dianbo Liu*, Alex Lamb*, Kenji Kawaguchi, Anirudh Goyal, Chen Sun, Michael Curtis Mozer and Yoshua Bengio. Discrete-Valued Neural Communication. Advances in Neural Information Processing Systems (NeurIPS), 2021.
+Ferran Alet*, Dylan Doblar*, Allan Zhou, Joshua B. Tenenbaum, Kenji Kawaguchi and Chelsea Finn. Noether Networks: meta-learning useful conserved quantities. Advances in Neural Information Processing Systems (NeurIPS), 2021.
+Zhun Deng, Linjun Zhang, Kailas Vodrahalli, Kenji Kawaguchi and James Zou. Adversarial Training Helps Transfer Learning via Better Representations. Advances in Neural Information Processing Systems (NeurIPS), 2021.
+Clement Gehring, Kenji Kawaguchi, Jiaoyang Huang, and Leslie Pack Kaelbling. Understanding End-to-End Model-Based Reinforcement Learning Methods as Implicit Parameterization. Advances in Neural Information Processing Systems (NeurIPS), 2021.
+Ferran Alet, Maria Bauza Villalonga, Kenji Kawaguchi, Nurullah Giray Kuru, Tomas Lozano-Perez and Leslie Pack Kaelbling. Tailoring: encoding inductive biases by optimizing unsupervised objectives at prediction time. Advances in Neural Information Processing Systems (NeurIPS), 2021.
+Juncheng Liu, Kenji Kawaguchi, Bryan Hooi, Yiwei Wang and Xiaokui Xiao. EIGNN: Efficient Infinite-Depth Graph Neural Networks. Advances in Neural Information Processing Systems (NeurIPS), 2021.
+Ameya D. Jagtap, Kenji Kawaguchi and George E. Karniadakis. Adaptive Activation Functions Accelerate Convergence in Deep and Physics-informed Neural Networks. Journal of Computational Physics, 404, 109136, 2020.
+Ameya D. Jagtap*, Kenji Kawaguchi* and George E. Karniadakis. Locally adaptive activation functions with slope recovery for deep and physics-informed neural networks. Proceedings of the Royal Society A, 476, 20200334, 2020.
+Kenji Kawaguchi. Deep Learning without Poor Local Minima. Advances in Neural Information Processing (NeurIPS), 2016. [Selected for NeurIPS oral presentation (2% accept rate)]
+Kenji Kawaguchi, Leslie Pack Kaelbling and Tomas Lozano-Perez. Bayesian Optimization with Exponential Convergence. Advances in Neural Information Processing (NeurIPS), 2015.",NAN,"CS5242: Neural Networks and Deep Learning
+CS5339: Theory and Algorithms for Machine Learning","Research on Large Language Models (LLMs)
+Partial Differentiation Equations (PDEs) and Deep Learning"
+LEE Yi-Chieh,"Assistant Professor, Computer Science",AS6-04-05,651 68354,./images/emails/Lee_Yi_Chieh_email.jpg,./images/photos/Lee_Yi_Chieh.jpg,https://www.comp.nus.edu.sg/cs/people/yclee,"Ph.D. (CS, University of Illinois Urbana-Champaign, 2021)","Yi-Chieh Lee is an assistant professor in the Department of Computer Science at NUS Computing. Before joining NUS, he was a researcher at NTT, Japan. He earned his Ph.D. in 2021 from the University of Illinois Urbana-Champaign (UIUC). His research interests include human-computer interaction (HCI), CSCW, social computing, conversational user interfaces, and human-centered AI. He recently focused on designing AI conversational agents to promote mental well-being and behaviour change. He is passionate about bridging social impact and AI technologies; thus, he dedicates himself to creating new social interventions to facilitate human-AI interaction and generating recommendations for future technology design.","Media
+Artificial Intelligence
+Healthcare Informatics","Human-Computer Interaction
+Computer-Supported Cooperative Work And Social Computing (CSCW)
+Human-centered AI
+Conversational User Interfaces","Exploring Effects of Chatbot-based Social Contact on Reducing Mental Illness Stigma
+""I Hear You, I Feel You"": Encouraging Deep Self-disclosure through a Chatbot
+Designing a Chatbot as a Mediator for Promoting Deep Self-Disclosure to a Real Mental Health Professional
+"" We Gather Together We Collaborate Together"": Exploring the Challenges and Strategies of Chinese Lesbian and Bisexual Women's Online Communities on Weibo
+“So Close, yet So Far”: Exploring Sexual-minority Women’s Relationship-building via Online Dating in China","CSCW2022 Diversity & Inclusion Award
+Cornell-NUS Global Strategic Collaboration Award","CS3249: User Interface Development
+CS5346: Information Visualisation","Designing Conversational Agents to Modulate Humans¡¯ Belief in Misinformation 
+Exploring AI's Influence on Human Decision-Making and Morality
+AI-assisted writing in supporting messages and people¡¯s perceptions
+Exploring the Impact of AI Chatbots on Human Communication
+Designing AI Solutions for Combating Ageism and Enhancing Elderly Connection
+An AI Approach to Enhancing Multicultural Communication
+Exploring Human-AI Interaction through Language Models (HCI &amp; Social computing)
+Deciphering and Diminishing Bias in Generative AI through LLM and Knowledge Graph Synthesis
+Empathetic AI: Pioneering Compassionate Agents for Enhanced Human-AI Collaboration"
+LEOW Wee Kheng,"Associate Professor, Computer Science",AS6-05-07,651 66540,./images/emails/Leow_Wee_Kheng_email.jpg,./images/photos/Leow_Wee_Kheng.jpg,https://www.comp.nus.edu.sg/cs/people/leowwk,"Ph.D. (Computer Science, University of Texas at Austin, 1994)
+M.Sc. (Computer Science, National University of Singapore, 1989)
+B.Sc. (National University of Singapore, 1985)","Dr. Leow Wee Kheng obtained his B.Sc. and M.Sc. in Computer Science from National University of Singapore in 1985 and 1989 respectively. He pursued Ph.D. study at The University of Texas at Austin and obtained his Ph.D. in Computer Science in 1994. His curent research interests include medical image analysis, surgery planning and simulation and general computer vision. He has published more than 130 technical papers in journals, conferences, and books. He has also been awarded three U.S. patents and a Singapore patent. He has served in the Program Committees and Organizing Committees of various conferences. He collaborates widely with a large number of local and overseas institutions. His current active collaborators include Singapore General Hospital, National University Hospital and Multimedia University, Malaysia.","Media
+Algorithms & Theory","Medical Image Analysis
+Surgery Planning
+Computer Vision
+3D Models
+Image Processing","S. Xie, W. K. Leow and T. C. Lim. Improved Laplacian Deformation for Reconstruction of Defective Skulls. In Proc. Int. Conf. on Computer Analysis of Images and Patterns, Aug 2017.
+J. Lai, W. K. Leow, T. Sim, and G. Li. Multi-View Separation of Background and Reflection by Coupled Low-Rank Decomposition. In Proc. Int. Conf. on Computer Analysis of Images and Patterns, Aug 2017.
+S. Xie and W. K. Leow. Flip-Avoiding Interpolating Surface Registration for Skull Reconstruction. In Proc. Int. Conf. on Pattern Recognition, Dec 2016.
+J. Lai, W. Leow, T. Sim, V. Sharma. Think Big, Solve Small: Scaling Up Robust PCA with Coupled Dictionaries. In Proc. IEEE Winter Conf. on Applications of Computer Vision, Mar 2016.
+W. K. Leow, G. Li, J. Lai, T. Sim, V. Sharma. Hide and Seek: Uncovering Facial Occlusion with Variable-Threshold Robust PCA. In Proc. IEEE Winter Conf. on Applications of Computer Vision, Mar 2016.
+K. Zhang, W. K. Leow, Y. Cheng. Performance Analysis of Active Shape Reconstruction of Fractured, Incomplete Skulls. In Proc. Int. Conf. on Computer Analysis of Images and Patterns, Sep 2015.
+J. Lai, W. K. Leow, T. Sim. Incremental Fixed-Rank Robust PCA for Video Background Recovery. In Proc. Int. Conf. on Computer Analysis of Images and Patterns, Sep 2015.
+W. K. Leow, Y. Cheng, L. Zhang, T. Sim, L. Foo. Background Recovery by Fixed-rank Robust Principal Component Analysis. In Proc. Int. Conf. on Computer Analysis of Images and Patterns, Aug 2013.","CAIP 2017 Best Paper Award
+2007 Andrew P. Sage Best Transactions Paper Award for the best paper published in all 3 SMC Transactions, Part A, Part B, and Part C, in 2006.
+Faculty Teaching Excellence Award for AY2015/16
+Annual Teaching Excellence Award for AY2015/16
+4 patents granted, 5 patents filed","CS5240: Theoretical Foundations in MultiMedia
+GEI1000: Computational Thinking",Simulation of Cochlear Implant Surgery
+Jialin LI,"Sung Kah Kay Assistant Professor, Computer Science",COM3-02-54,660 17678,./images/emails/Jialin_Li_email.jpg,./images/photos/Jialin_Li.jpg,https://www.comp.nus.edu.sg/cs/people/lijl,"PhD in Computer Science and Engineering, University of Washington, August 2019
+M.S. in Computer Science and Engineering, University of Washington, June 2014
+B.S.E. in Computer Engineering, University of Michigan, May 2012",Personal webpage: https://www.comp.nus.edu.sg/~lijl/,Systems & Networking,"Operating Systems
+Distributed Systems",NAN,NAN,"CS2106: Introduction to Operating Systems
+CS5223: Distributed Systems",Simulation infrastructure for next generation computer systems
+LU Yao,"Assistant Professor, Computer Science",COM2-03-42,660 17891,./images/emails/Lu_Yao_email.jpg,./images/photos/Lu_Yao.jpg,https://www.comp.nus.edu.sg/cs/people/luyao,"Ph.D. of Computer Science and Engineering, University of Washington, 2018
+MSc of Computer Science, Fudan University, 2013
+BEng of Computer Science, Tongji University, 2010","My passions lie at the intersection of AI, systems and their applications in science and beyond. Throughout my academic and industry journey, I have engaged with various tiers of the technology landscape and acquired hands-on experience in data science, core systems, advanced cloud infrastructures, and a diverse range of AI applications. The research topics I am interested in include: - Machine learning, data and cloud systems - Data- and system-centric AI - LLM post-training, applications in science and beyond I received a PhD from the University of Washington in 2018. I spent years as a researcher at Microsoft Research Redmond.","Database
+Systems & Networking
+Artificial Intelligence",NAN,NAN,NAN,"CS4221: Database Applications Design and Tuning
+CS5421: Database Applications Design and Tuning
+CS6216: Advanced Topics in Machine Learning",AI in financial data analytics and trading
+"MA Tianbai, Richard","Associate Professor, Computer Science",COM3-02-14,651 64244,./images/emails/Ma_Tianbai_Richard_email.jpg,./images/photos/Ma_Tianbai_Richard.jpg,https://www.comp.nus.edu.sg/cs/people/tbma,"B.Sc. (Chinese University of Hong Kong, Hong Kong, 2002)
+M.Phil. (Chinese University of Hong Kong, Hong Kong, 2004)
+M.Sc. (Columbia University, New York, USA, 2008)
+Ph.D. (Columbia University, New York, USA, 2010)","Richard received his Ph.D. degree from Columbia University, where he was affiliated with Distributed Network Analysis (DNA) Research Group. During his Ph.D. study, he worked as a Research Intern at IBM T.J. Watson Research Center in New York and Telefonica Research in Barcelona. He received his Mphil. and BSc. (first-class honors) degrees in Computer Science & Engineering from the Chinese University of Hong Kong, where I was affiliated with Advanced Networking & System Research Group.",Systems & Networking,"Cloud-Based Big Data Systems
+Economics and Evolution of the Internet","Yancan Mao, Yuan Huang, Runxin Tian, Xin Wang and Richard T. B. Ma. Trisk: Task-Centric Data Stream Reconfiguration. Proceedings of the ACM Symposium on Cloud Computing (SoCC), Seattle, WA, USA, Novermber 1st-4th, 2021.
+Richard T. B. Ma. Internet Transport Economics: Model and Analysis. IEEE/ACM Transactions on Networking, to appear.
+Xin Wang and Richard T. B. Ma. On Private Peering Agreements between Content and Access Providers: A Contractual Equilibrium Analysis. Proceedings of the ACM Sigmetrics Conference, Beijing, China, June 14th-18th, 2021.
+Walid A. Y. Aljoby, Xin Wang, Tom Z. J. Fu and Richard T. B. Ma. On SDN-Enabled Online and Dynamic Bandwidth Allocation for Stream Analytics. IEEE Journal on Selected Areas in Communications, Volume 37, Issue 8, pp. 1688 - 1702, August 2019.
+Li Wang, Tom Z. J. Fu, Richard T. B. Ma, Marianne Winslett and Zhenjie Zhang. Elasticutor: Rapid Elasticity for Realtime Stateful Stream Processing. Proceedings of the ACM SIGMOD Conference, June 30 - July 5, Amsterdam, The Netherlands, 2019.
+Jing Tang and Richard T. B. Ma. Regulating Monopolistic ISPs Without Neutrality. IEEE Journal on Selected Areas in Communications, Volume 37, Issue 7, pp. 1666 - 1680, July 2019.
+Tom Z. J. Fu, Jianbing Ding, Richard T. B. Ma, Marianne Winslett, Yin Yang and Zhenjie Zhang. DRS: Auto-Scaling for Real-Time Stream Analytics. IEEE/ACM Transactions on Networking, Volume 25, Issue 6, pp. 3338 - 3352, December 2017.
+Richard T. B. Ma. Pay or Perish: The Economics of Premium Peering. IEEE Journal on Selected Areas in Communications, Volume 35, Issue 2, pp. 353 - 366, February 2017.
+Richard T. B. Ma. Subsidization Competition: Vitalizing the Neutral Internet. IEEE/ACM Transactions on Networking, Volume 24, Issue 4, pp. 2563 - 2576, August 2016.
+Richard T. B. Ma and Vishal Misra. The Public Option: A Non-Regulatory Alternative to Network Neutrality. IEEE/ACM Transactions on Networking, Volume 21, Issue 6, pp. 1866 - 1879, December 2013.","Best Paper Award Runners-up, ACM Mobihoc Conference 2020
+Teaching Excellence Award, School of Computing 2019
+Best Paper Award Finalist, Invited Fast-Track Paper, IEEE INFOCOM 2017
+Bell Labs Best Paper Award, IEEE Workshop on Smart Data Pricing (SDP) 2015
+Best Paper Award, IEEE International Conference on Network Protocols (ICNP) 2014
+Best Paper Award, IEEE International Conference on Cloud Engineering (IC2E) 2013","CS4226: Internet Architecture
+CS6204: Advanced Topics in Networking","Design and implementation of dynamic peering at Internet exchange points (IXPs)
+Developing cloud-native open-source distributed systems
+Modelling and analysis of blockchain and smart contract ecosystems
+Exploring Software-Defined Networking (SDN) via  P4 Programmable Data Plane"
+Umang MATHUR,"NUS Presidential Young Professor, Computer Science",COM3-02-53,651 65219,./images/emails/Umang_Mathur_email.jpg,./images/photos/Umang_Mathur.jpg,https://www.comp.nus.edu.sg/cs/people/umathur,NAN,"Umang Mathur is a Presidential Young Professor at the National University of Singapore. He received his PhD from the University of Illinois at Urbana Champaign and was an NTT Research Fellow at the Simons Institute for the Theory of Computing at Berkeley. Umang obtained his bachelor's from the Department of Computer Science and Engineering at IIT Bombay. He has worked as a Research Scientist at Meta and a Quantitative Researcher at Worldquant Research. His research broadly centers on developing techniques inspired from formal methods and logic for answering design, analysis and implementation questions in programming languages, software engineering and systems. He has received a Google PhD Fellowship, a Google research award, and an ACM SIGSOFT Distinguished Paper Award at ESEC/FSE'18. Best Paper Award at ASPLOS'22 and an ACM SIGPLAN Distinguished Paper Award at POPL'23 for his work on designing techniques and tools for analyzing concurrent software. More details can be found at: https://www.comp.nus.edu.sg/~umathur/","Programming Languages & Software Engineering
+Algorithms & Theory","Programming Languages and Software Engineering
+Algorithms and Theory
+Systems and Networking
+Formal Methods",NAN,NAN,"CS4211: Formal Methods for Software Engineering
+CS4269: Fundamentals of Logic in Computer Science
+CS5469: Fundamentals of Logic in Computer Science","Dynamic Detection of Concurrency Bugs
+Runtime Predictive Analysis using Multiple Executions for testing Concurrent Programs
+Enhancing Kernel Concurrency Fuzzing Through Predictive Analysis
+Evolution Aware Dynamic Analysis for Automated Detection of Concurrency Bugs"
+Tulika MITRA,"Provost's Chair Professor, Computer Science",COM3-02-13,651 66839,./images/emails/Tulika_Mitra_email.jpg,./images/photos/Tulika_Mitra.jpg,https://www.comp.nus.edu.sg/cs/people/tulika,"Ph.D. (Computer Science, Stony Brook University, New York, 2000)
+M.E. (Computer Science, Indian Institute of Science, 1997)
+B.E. (Computer Science, Jadavpur University, 1995)","Professor Tulika Mitra is the Dean of the School of Computing and Vice Provost (Special Projects) at the National University of Singapore (NUS), where she supports university-wide strategic initiatives under the Provost’s Office. She is Provost’s Chair Professor in the Department of Computer Science. Prior to her current appointment, Tulika served as Vice Provost (Academic Affairs) from 2021 to 2025. She was also Chair (2020-2025) and Deputy Chair (2018-2019) of the University Promotion and Tenure Committee (UPTC), and Deputy Head of the Computer Science Department (2016-2018). As Vice Provost and UPTC Chair, she led initiatives to uphold academic excellence while championing a more inclusive and forward-looking culture for faculty recruitment and development. She joined NUS in 2001 after receiving her PhD from the State University of New York at Stony Brook. Tulika is recognised internationally for her pioneering research in hardware-software codesign of computing systems, with a focus on real-time embedded systems and energy-efficient AI accelerators. She currently leads an NRF Competitive Research Programme on low-power reconfigurable edge accelerators (2021-2026) and an MOE Tier-3 programme on Green AI (2025-2030). She also actively collaborates with global industry research partners such as ARM, AMD, and Meta to achieve real-world impact. Her research has received several accolades, including best paper awards at top conferences and the Embedded Systems Week (ESWEEK) Test-of-Time Award 2022. She has delivered multiple plenary keynotes and been invited as a distinguished speaker at flagship international conferences. Tulika has served as Editor-in-Chief of ACM Transactions on Embedded Computing Systems, Member of the ACM Publications Board, General Chair of ESWEEK, and General/Program Chair of the International Conference on Computer-Aided Design (ICCAD). Her service to the research community has been recognized with the IEEE CEDA Outstanding Service Recognition Award and ACM SIGDA Distinguished Service Award. She also serves on the DSTA Board of Directors, the Scientific Advisory Boards of Max Planck Institute for Software Systems and Barkhausen Institute, international expert panels of Inria (France), KTH (Sweden), and Chinese University of Hong Kong. As an educator, Tulika has been instrumental in establishing the multi-disciplinary Computer Engineering programme (CEG) at NUS, a unique collaborative effort between the Faculty of Engineering and the School of Computing. She was the Chair and Co-Chair of the CEG Joint Academic Committee (2011-2017) and received the School of Computing Teaching Excellence Award. Committed to mentoring the next generation of researchers, she has supervised around 25 PhD students, all of whom are now well-established in academia or industry.",Systems & Networking,"Real-Time Embedded Systems
+Design Automation
+Low Power Design
+Power Management
+Heterogeneous Computing","Muthukaruppan, Thannirmalai Somu, Mihai Pricopi, Vanchinathan Venkataramani, Tulika Mitra, and Sanjay Vishin. ""Hierarchical power management for asymmetric multi-core in dark silicon era."" In Proceedings of the 50th Annual Design Automation Conference, p. 174. ACM, 2013.
+Somu Muthukaruppan, Thannirmalai, Anuj Pathania, and Tulika Mitra. ""Price theory based power management for heterogeneous multi-cores."" In Proceedings of the International Conference on Architectural Support for Programming Languages and Operating Systems, pp. 161-176. ACM, 2014.
+Pathania, Anuj, Qing Jiao, Alok Prakash, and Tulika Mitra. ""Integrated CPU-GPU power management for 3D mobile games."" In Proceedings of the 51st Annual Design Automation Conference, pp. 1-6. ACM, 2014.
+Jayaseelan, Ramkumar, Tulika Mitra, and Xianfeng Li. ""Estimating the worst-case energy consumption of embedded software."" In Real-Time and Embedded Technology and Applications Symposium, 2006. Proceedings of the 12th IEEE, pp. 81-90. IEEE, 2006.
+Li, Xianfeng, Yun Liang, Tulika Mitra, and Abhik Roychoudhury. ""Chronos: A timing analyzer for embedded software."" Science of Computer Programming 69, no. 1-3 2007: 56-67.
+Liang, Yun, Huping Ding, Tulika Mitra, Abhik Roychoudhury, Yan Li, and Vivy Suhendra. ""Timing analysis of concurrent programs running on shared cache multi-cores."" Real-Time Systems 48, no. 6 2012: 638-680.
+Suhendra, Vivy, Chandrashekar Raghavan, and Tulika Mitra. ""Integrated scratchpad memory optimization and task scheduling for MPSoC architectures."" In Proceedings of the 2006 international conference on Compilers, architecture and synthesis for embedded systems, pp. 401-410. ACM, 2006.
+Yu, Pan, and Tulika Mitra. ""Scalable custom instructions identification for instruction-set extensible processors."" In Proceedings of the 2004 international conference on Compilers, architecture, and synthesis for embedded systems, pp. 69-78. ACM, 2004.","IEEE Distinguished Visitor 2018-2020
+Indian Institute of Science (IISc) Prof. S. K. Chatterjee Outstanding Woman Researcher Award 2017
+Best Paper Award, 11th IEEE International Conference of Field Programmable Technology (FPT) 2012
+Best Paper Candidate: DATE'17, DAC'16, CASES'16, VLSI'13, DAC'12, DAC'09, CODES+ISSS'08, FPL'07, ECRTS'07, CASES'07, CASES'04
+School of Computing, National University of Singapore Teaching Excellence Award 2006
+Computer Society Medal for first position, CS Department, Indian Institute of Science 1997
+Dr. B. C. Roy Memorial Medal for first position, Engineering Faculty, Jadavpur University 1995
+University Medal for first position, CS Department, Jadavpur University 1995",NAN,"Accelerating Applications on Heterogeneous Computing Cluster
+Accelerating ML Inference on Heterogeneous Multiprocessor System-on-Chip
+ML Inference on Coarse-Grained Reconfigurable Arrays (CGRA)"
+Amirhassan MONAJEMI,"Senior Lecturer (Educator Track), Computer Science",COM3-B1-23,660 12934,./images/emails/Amirhassan_Monajemi_email.jpg,./images/photos/Amirhassan_Monajemi.jpg,https://www.comp.nus.edu.sg/cs/people/amir,"PhD, Computer Science, Pattern Recognition and Image Processing, University of Bristol, Bristol, England, 2004.
+MSc, Computer Engineering, Machine Intelligence and Robotics, Shiraz University, Shiraz, Iran, 1994.
+BSc, Computer Engineering, Hardware, Isfahan University of Technology, Isfahan, Iran, 1991.","Dr Amirhassan Monajemi is a Senior Lecturer with the School of Computing, National University of Singapore (NUS). Prior to joining NUS, he was with the Faculty of Computer Engineering, University of Isfahan, Iran, where he served as a professor of Artificial Intelligence (AI), Machine Learning, and Data Science.He was born in 1968 in Isfahan, Iran. He studied towards his BSc and MSc degrees in Computer Engineering at Isfahan University of Technology (IUT) and Shiraz University, respectively. He obtained his PhD in Computer Engineering, Pattern Recognition and Image Processing, from the University of Bristol, England, in 2005. His research interests include AI, Machine Learning, Machine Vision, the Internet of Things (IoT), Data Science, and their applications. Since 2005, he has taught a range of artificial intelligence courses at both undergraduate and postgraduate levels, including AI, Advanced AI, Expert Systems, Decision Support Systems, Neural Networks, and Cognitive Science. He was awarded the Best University Teacher of the Province in 2012. He has also studied in Learning Management Systems, E-Learning, and workplace E-Learning since 2007. Dr. Monajemi holds several patents in the fields of AI, Machine Vision, and Signal Processing applications, including an AI and machine vision-based driver drowsiness detection system and a low power consuming spherical robot. He has published more than a hundred research papers in peer-reviewed, indexed journals and international conferences (including IEEE, Elsevier, and Springer), and has supervised numerous Data Science, IoT, and AI industrial projects of varying scales. These include the delivery and testing of Isfahan’s intelligent traffic system and a red-light runner detection system. He is experienced across multiple sub-domains of Artificial Intelligence and Machine Learning, from theory to practice, including Deep Learning, Logic, and Optimisation.","Artificial Intelligence
+Media
+Digital Transformation, Platforms & Innovation","AI and Machine Learning
+Artificial Neural Networks and Deep Learning","A new hierarchy framework for feature engineering through multi‐objective evolutionary algorithm in text classification, R Asgarnezhad, SA Monadjemi, MS Aghaei Concurrency and Computation: Practice and Experience, e6594, 2021.
+Memory‐and time‐efficient dense network for single‐image super‐resolution, N Imanpour, AR Naghsh‐Nilchi, A Monadjemi, H Karshenas, K Nasrollahi, IET Signal Processing 15 (2), 141-152, 2021.
+Multimodal mental health analysis in social media, AH Yazdavar, MS Mahdavinejad, G Bajaj, W Romine, et al. Plos one 15 (4), 2020.
+The Design and Development of a Dynamic Model of a Low Power Consumption, Two-pendulum Spherical Robot, S Asiri, F Khademianzadeh, A Monadjemi, P Moallem, IEEE/ASME Transactions on Mechatronics, 2019.
+Iterative Algorithm For Interactive Co-Segmentation Using Semantic Information Propagation, Z Kamranian, ARN Nilchi, A Monadjemi, N Navab, Applied Intelligence 48 (12), 5019-5036, 2018.
+Visual Tracking In Video Sequences Based On Biologically Inspired Mechanisms, A Sokhandan, A Monadjemi, Computer Vision And Image Understanding, 2018.
+SWIR based estimation of TIR emissivity of bare soil surfaces using deep conditional generative adversarial network in Landsat data
+A comparative study on deep feature selection methods for skin lesion classification, F Golnoori, F Zamani Boroujeni, SA Monadjemi, IET Image Processing 18 (4), Pages 996-1013, 2024
+Visual tracking in video sequences based on biologically inspired mechanisms, A Sokhandan, A Monadjemi, Computer Vision and Image Understanding 239, 2024","Best researcher of the university in the field of computer science, University of Isfahan, Iran, 2011
+Best researcher of the province in the field of engineering, Isfahan, Iran, 2012","CS1010S: Programming Methodology
+CS4243: Computer Vision and Pattern Recognition
+CS5228: Knowledge Discovery and Data Mining","Text Visualizer GANs
+An AI training package in Python
+Time series forecasting using a fully data-driven and deep approach 
+An AI training package in Python
+Combination of Evolutionary Algorithms and deep learning
+Student-Quiz Matching using Machine Learning
+A Wiki site for AI Transformation
+Advanced evolutionary algorithms and their applications in the modern AI era
+Cognitive deep models for object detection
+Graph mining using unstructured data processing approaches"
+Akshay NARAYAN,"Senior Lecturer (Educator Track), Computer Science",COM2-02-03,651 64779,./images/emails/Akshay_Narayan_email.jpg,./images/photos/Akshay_Narayan.jpg,https://www.comp.nus.edu.sg/cs/people/anarayan,"Ph.D. (Computer Science, National University of Singapore)
+M.Tech. (Information Technology, International Institute of Information Technology Bangalore, India)
+B.E. (Computer Science & Engineering, Visveswaraya Technological University, India)","Akshay Narayan is a senior lecturer at the School of Computing at NUS. He received his Ph.D. degree from NUS and his M.Tech from IIIT-Bangalore. Akshay teaches senior undergraduate/graduate-level AI Planning and Decision Making, as well as introductory and intermediate-level Software Engineering courses at SoC. Akshay is broadly interested in AI planning, sequential decision making, and its applications. His current research is on transfer learning in reinforcement learning, multi-agent decision making. He has also worked in the area of cloud computing. Some of his past projects include smart metering and chargeback as applied to cloud systems, incorporating power awareness in cloud metering, workload analysis for virtual machine sizing and location in private clouds, and QoS monitoring and response in cloud systems.","Artificial Intelligence
+Programming Languages & Software Engineering","Knowledge Transfer & Reinforcement Learning
+AI Planning
+Green Computing
+Technology in Education","Narayan, Akshay, and Tze Yun Leong. ""Effects of Task Similarity on Policy Transfer with Selective Exploration in Reinforcement Learning.""Proceedings of the 18th International Conference on Autonomous Agents and MultiAgent Systems. 2019.
+Narayan, Akshay, Zhuoru Li, and Tze-Yun Leong. ""SEAPoT-RL: selective exploration algorithm for policy transfer in RL.""Proceedings of the Thirty-First AAAI Conference on Artificial Intelligence. 2017.
+Narayan, Akshay, Parvathy S. Pillai, Abhinandan S. Prasad, and Shrisha Rao. ""Resource procurement, allocation, metering, and pricing in cloud computing."" InResearch Advances in Cloud Computing, pp. 141-186. Springer, Singapore, 2017.
+Narayan, Akshay, and Shrisha Rao. ""Power-aware cloud metering.""IEEE Transactions on Services Computing7, no. 3 2014: 440-451.
+Hershey, Paul C., Shrisha Rao, Charles B. Silio, and Akshay Narayan. ""System of systems for quality-of-service observation and response in cloud computing environments.""IEEE Systems Journal9, no. 1 2014: 212-222.",NAN,"CS2113: Software Engineering & Object-Oriented Programming
+CS3219: Software Engineering Principles and Patterns
+CS3268: Responsible AI: From Algorithms to Impact
+IT5100F: Industry Readiness: Data Analytics and AI in Practice
+TCX3225: Software Design and Requirements Analysis","Exploring Edge system architecture
+Translating human instructions to AI agents using Language models
+Hierarchical planning with language models
+Smart calendar
+Autonomous cloud workload scheduling for green computing realization
+AiRENA - platform for repeatable AI experiments
+Klaytab: Improve collaborative learning with AI
+Android application for a smart calendar
+Evaluating RL test bed
+LLM kaki
+Explore microservice architecture projects "
+Ganesh NEELAKANTA IYER,"Lecturer (Educator Track), Computer Science",COM2-03-55,660 17601,./images/emails/Ganesh_Neelakanta_Iyer_email.jpg,./images/photos/Ganesh_Neelakanta_Iyer.jpg,https://www.comp.nus.edu.sg/cs/people/gni,"Ph.D.(National University of Singapore, 2012)
+M.Sc. (National University of Singapore, 2008)
+Bachelors in Computer Science and Engineering (Mahatma Gandhi University, Kerala, India, 2004)","Dr Ganesh Neelakanta Iyer is currently a Lecturer in the Department of Computer Science at the School of Computing at the National University of Singapore (NUS). He received his Bachelor’s degree in Computer Science and Engineering (University first rank) from Mahatma Gandhi University, Kerala, India in 2004 and Master's and PhD degrees from the National University of Singapore in 2008 and 2012 respectively. He brings with him a decade of industry experience in various companies including Salesforce, Sasken Communication Technologies, NXP Semiconductor and Progress software. He has held various roles in the software industry including QA Architect, Technical Support Manager, Engineering Development, Lead DevOps Engineer and Technology Evangelist. He has experience working in academic positions at Amrita Vishwa Vidyapeetham, Coimbatore (as Associate Professor) and IIIT- Hyderabad (as Visiting Faculty). He founded STeAdS - Software Engineering and Technological Advancements for Society to promote collaborations across the globe for research and development projects for Cultural Heritage, Healthcare and Education. He is a staunch supporter of agile software engineering and favours the agile development of software solutions. With his professional background working on large-scale business software products and managing various agile positions like Scrum Master and Product Owner, he is now sharing his software engineering expertise with NUS students. In 2021, he founded STeAdS, a virtual research group aimed at using Software Engineering and technological advancements for the benefit of society. Students and collaborators from across the world are working with him on various projects in three focus areas, namely Cultural Heritage, Healthcare and Education. He has technical knowledge and experience in various areas including Cloud/Edge Computing Paradigms, Agile Software Engineering practises, Economic models (Game Theoretic principles), Internet of Things (IoT) based systems, Machine Learning and technology for Theatre Arts and Cultural Heritage. Traditional theatre arts such as Kathakali from India and Wayang Kulit from Indonesia which originated centuries ago, are in the current scope of research by STeAds, applying technologies such as artificial intelligence, image processing and cloud computing. Dr Iyer is an IEEE Senior Member. He published two book chapters in the “Encyclopedia for Cloud Computing” in 2016, in addition to several book chapters, journals and conference publications. Dr. Iyer has presented many hands-on workshops and speeches on a variety of cutting-edge technology topics at numerous academic and business conferences held in the USA, Europe, Australia, and Asia, Many of these focused on his contributions to software quality analysis in the industry using modern software engineering techniques like Agile for application development incorporating cloud platforms, mobile platforms, and IoT-based systems. He is also a maestro at the Indian traditional dance known as Kathakali. By organising Kathakali performances, workshops, demonstrations, and performances on his own, he devotes a significant amount of his time to fostering this traditional art. He has also composed a Kathakalistory “Sri Mookambika Mahathmyam” which has been staged in multiple venues in India.","Artificial Intelligence
+Programming Languages & Software Engineering","Machine learning and other technologies for Theatre Arts and Cultural Heritage
+EdgeAI - Machine Learning and AI at the edge of the networks for healthcare
+Software Engineering Education","Ganesh Neelakanta Iyer, B Veeravalli, SG Krishnamoorthy, On handling large-scale polynomial multiplications in compute cloud environments using divisible load paradigm, IEEE Transactions on Aerospace and Electronic Systems 48 (1), 820-831
+Ganesh Neelakanta Iyer, B Veeravalli, On the resource allocation and pricing strategies in compute clouds using bargaining approaches, 2011 17th IEEE International Conference on Networks, 147-152
+SS Arun, Ganesh Neelakanta Iyer, On the Analysis of COVID19-Novel Corona Viral Disease Pandemic Spread Data Using Machine Learning Techniques, 2020 4th International Conference on Intelligent Computing and Control Systems (ICICCS), 1222-1227
+Ganesh Neelakanta Iyer, J Pasimuthu, R Loganathan, Pctf: An integrated, extensible cloud test framework for testing cloud platforms and applications, 2013 13th International Conference on Quality Software, 135-138
+Lakshmi Tulasi Bhavanam, Ganesh Neelakanta Iyer, On the Classification of Kathakali Hand Gestures Using Support Vector Machines and Convolutional Neural Networks, 2020 International Conference on Artificial Intelligence and Signal Processing (AISP), 1-6
+Harikrishna Pydi, Ganesh Neelakanta Iyer, Analytical Review and Study on Load Balancing in Edge Computing Platform, 2020 Fourth International Conference on Computing Methodologies and Communication (ICCMC), 180-187
+Ganesh Neelakanta Iyer, Vishal Raman, KS Aswin, Bharadwaj Veeravalli, On the strategies for Risk Aware Cloud and Fog Broker Arbitrage Mechanisms, 2020 Fourth International Conference on Computing Methodologies and Communication (ICCMC), 794-799
+KKR Sanjay Kumar, Goutham Subramani, KS Rishinathh, Ganesh Neelakanta Iyer, On Multi-class Currency Classification Using Convolutional Neural Networks and Cloud Computing Systems for the Blind, Advances in Distributed Computing and Machine Learning, 347-357
+Ganesh Neelakanta Iyer, Bommidi Sohan, R Dharmesh, Vishal Raman, Automated Third Umpire Decision Making in Cricket Using Machine Learning Techniques, 2020 4th International Conference on Intelligent Computing and Control Systems (ICICCS), 1216-1221
+Ganesh Neelakanta Iyer, Peng-Yong Kong, B-Coop: A Novel Cooperation Enforcement Scheme for Wireless Networks, 2019 26th International Conference on Telecommunications (ICT)","Selected as AWS Educate Cloud Faculty Ambassador by Amazon Web Services in 2019 and 2020 in recogni- tion of his development, implementation and thought leadership in cloud computing programs, curricula and course
+Outstanding Contributor Award for Integration QA lead activities, Progress software, 2014
+Spot Recognition for robustness activities in Rollbase QA, Progress Software, 2016
+University Topper (First Rank) for the B-Tech degree examination in 2004
+National University of Singapore, Postgraduate Research Scholarship, 2009-2012
+Certified Kubernetes Administrator (CKA)
+Brainspace certified analyst April 2020
+Fortinet’s Network Security Expert certification NSE 1 and NSE 2","CS2103: Software Engineering
+CS2103T: Software Engineering
+CS4218: Software Testing
+IFS4205: Information Security Capstone Project.","TROFOS agile project management platform for academics
+Web platform development to deploy and use ML algorithms for cultural heritage: Application of MLOPs
+Social Media for Theatre Artists  
+Mobile Application Development for TROFOS agile project management platform 
+TROFOS agile project management platform for academics
+Building an MLOps Pipeline and Platform for Computational Humanities - Wayang"
+Sanka RASNAYAKA,"Lecturer (Educator Track), Computer Science",AS6-05-13,660 17710,./images/emails/Sanka_Rasnayaka_email.jpg,./images/photos/Sanka_Rasnayaka.jpg,https://www.comp.nus.edu.sg/cs/people/sanka,"PhD, Computer Science, School of Computing, National University of Singapore
+BSc (Hons), Computer Science and Engineering, University of Moratuwa, Sri Lanka",,Artificial Intelligence,"Biometrics
+Continuous Authentication
+Applications of AI and CV
+Physics informed AI","Who wants continuous authentication on mobile devices?
+Mfr 2021: Masked face recognition competition
+Making the most of what you have! Profiling biometric authentication on mobile devices
+Your Tattletale Gait Privacy Invasiveness of IMU Gait Data
+Towards Wider Adoption of Continuous Authentication on Mobile Devices
+Imagery, Privacy and Ethics: An Overview of Partially Occluded Facial Biometric Analysis in the Era of Face Masks","Faculty Teaching Excellence Award (FTEA) - 2025
+Annual Teaching Excellence Award (ATEA) - 2024
+Faculty Teaching Excellence Award (FTEA) - 2024
+NUS Honor List of Student Tutors - Awarded for AY 2020-21
+NUS Honor List of Student Tutors - Awarded for AY 2018-19","CS1101S: Programming Methodology
+CS2040: Data Structures and Algorithms","Data-Driven Insights: Visualizing Dashboards and PR Reviews in Multi-git-repo Classrooms
+LLMs for real-time question answering with proper context in live lectures"
+Patrick REBENTROST,"Assistant Professor, Computer Science",COM2-04-29,651 62878,./images/emails/Patrick_Rebentrost_email.jpg,./images/photos/Patrick_Rebentrost.jpg,https://www.comp.nus.edu.sg/cs/people/patrick,NAN,,NAN,NAN,NAN,NAN,CS2109S: Introduction to AI and Machine Learning,Data-driven and Physics-inspired Machine Learning
+Rajendra Prasad SIRIGINA,"Lecturer (Educator Track), Computer Science",AS6-05-24,660 11664,./images/emails/Rajendra_Prasad_Sirigina_email.jpg,./images/photos/Rajendra_Prasad_Sirigina.jpg,https://www.comp.nus.edu.sg/cs/people/srprasad,"Ph.D. (Nanyang Technological University, Singapore, 2015)
+M. Tech (Indian Institute of Technology Guwahati, India, 2007)
+B. Tech (GRIET, JNTU Hyderabad, India)","Rajendra Prasad Sirigina is a lecturer in the Department of Computer Science, National University of Singapore. He obtained his B.Tech from the GRIET, JNTU Hyderabad, India in 2002, his M. Tech from Indian Institute of Technology Guwahati, India, in 2007, and his Ph.D. from the Nanyang Technological University in 2015. He was a research fellow at School of Computer Science and Engineering, NTU, Singapore and Rolls-Royce@NTU Corporate Lab, NTU, Singapore. His research interests include application of AI to wireless networks and health diagnostics.",Artificial Intelligence,"Wireless Networks
+Health Diagnostics",NAN,NAN,"CS2040: Data Structures and Algorithms
+IT5005: Artificial Intelligence","Kalman Filtering for Localization
+Deep Neural Network based End-to-End Wireless Network for 6G
+Generative AI for 6G
+Web-interface deisgns for ML Frameworks
+Leveraging Statistical Data Analysis, Machine Learning, and Generative AI for Scenario Building"
+Harold SOH Soon Hong,"Associate Professor, Computer Science",COM3-02-58,651 67367,./images/emails/Harold_Soh_Soon_Hong_email.jpg,./images/photos/Harold_Soh_Soon_Hong.jpg,https://www.comp.nus.edu.sg/cs/people/hsoh,"Ph.D. (Artificial Intelligence & Robotics, Imperial College London, UK, 2014)
+M.S. (Software Engineering, University of Melbourne, Australia, 2005)
+B.ASc. (Computer Science, Economics, University of California, Davis, 2004)","Harold Soh is an Assistant Professor in the Department of Computer Science at the National University of Singapore (NUS), where he directs the Collaborative Learning and Adaptive Robots (CLeAR) group. Harold completed his Ph.D. at Imperial College London with Yiannis Demiris on online learning for assistive robots. Harold's current research focusses on machine learning and decision-making for trustworthy collaborative robots. His work spans cognitive modeling (specifically human trust) to physical systems (perception with novel e-skins) and has been recognized with best paper award nominations at RSS, HRI, and IROS. Harold has served on the HRI committee as LBR Co-Chair (2019) and on the Technical Advances PC as a member (2020) and chair (2021). He is an Associate Editor of the ACM Transactions on Human Robot Interaction (2021). He regularly serves as PC member or reviewer for the top publication venues in AI (NeurIPS, AAAI, IJCAI) and robotics (ICRA, IROS, RSS, HRI).",Artificial Intelligence,"Human-Robot Interaction
+Machine Learning
+Robotics
+Artificial Intelligence","Multi-Task Trust Transfer for Human Robot Interaction. Harold Soh, Yaqi Xie, Min Chen, and David Hsu. International Journal of Robotics Research (IJRR), 2020
+Event-Driven Visual-Tactile Sensing and Learning for Robots. Tasbolat Taunyazov, Weicong Sng, Hian Hian See, Brian Lim, Jethro Kuan, Abdul Fatir Ansari, Benjamin Tee, and Harold Soh. Robotics: Science and Systems Conference (RSS), 2020
+Refining Deep Generative Models via Discriminator Gradient Flow. Abdul Fatir Ansari, Ming Liang Ang, and Harold Soh. International Conference on Learning Representations (ICLR), 2021.
+Efficient Exploration of Reward Functions in Inverse Reinforcement Learning via Bayesian Optimization. Sreejith Balakrishnan, Quoc Phong Nguyen, Bryan Kian Hsiang Low, and Harold Soh. Neural Information Processing Systems (NeurIPS), 2020.
+Robot Capability and Intention in Trust-based Decisions across Tasks. Xie Yaqi, Indu Prasad, Desmond Ong, David Hsu and Harold Soh. ACM/IEEE Conference on Human Robot Interaction (HRI), 2019
+Harold Soh and Yiannis Demiris. Learning Assistance by Demonstration: Smart Mobility With Shared Control and Paired Haptic Controllers. J. Human-Robot Interact. 4, 76–100 2015.
+Harold Soh, Yanyu Su, and Yiannis Demiris. Online spatio-temporal Gaussian process experts with application to tactile classification. in Intelligent Robots and Systems IROS, 2012 IEEE/RSJ International Conference on 4489–4496 2012.","Best of IEEE Transactions on Affective Computing (T-AFFC) 2021 Award, Applying Probabilistic Programming to Affective Computing, 2022
+Best Paper Award, Extended Tactile Perception: Vibration Sensing through Tools and Grasped Objects, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021
+Best Paper Award Finalist, The Transfer of Human Trust in Robot Capabilities across Tasks, Robotics Science and Systems (RSS), 2018.
+Best Paper Award Finalist, Planning with Trust for Human Robot Collaboration, ACM/IEEE Human Robot Interaction (HRI), 2018.
+Best Long Paper Award Runner-up, Generation Meets Recommendation: Proposing Novel Items for Groups of Users, ACM Recommender Systems (RecSys), 2018.
+M.I.T. SMART Postdoctoral Fellowship Award, 2013
+Best Cognitive Robotics Paper Finalist, Online Spatio-Temporal Gaussian Process Experts with Application to Tactile Classification, IEEE/RSJ Intelligent Robots and Systems (IROS), 2012.
+UK James Dyson Award National Finalist, 2012
+IEEE/RSJ IROS Cognitive Robotics Best Paper Finalist, 2012
+Khazanah Global Scholarship (Postgraduate), 2009-2013.
+Uni. of California Regents Scholarship, 2000-2004","CS3264: Foundations of Machine Learning
+CS5340: Uncertainty Modelling in AI",Development of a Social Navigation Simulator
+TAN Kian Lee,"Tan Sri Runme Shaw Senior Professor, Computer Science",COM1-03-23,651 62862,./images/emails/Tan_Kian_Lee_email.jpg,./images/photos/Tan_Kian_Lee.jpg,https://www.comp.nus.edu.sg/cs/people/tankl,"Ph.D. (Computer Science, National University of Singapore, 1994)
+M.S. (National University of Singapore, 1992)
+B.Sc. (1st Class Honours, National University of Singapore)","Kian-Lee Tan is a Professor of Computer Science at the School of Computing, National University of Singapore (NUS). He received his Ph.D. in computer science in 1994 from NUS. His current research interests include query processing and optimization in multiprocessor and distributed systems, database performance, data analytics, and database security. Kian-Lee has published over 300 research articles in international journals and conference proceedings, and co-authored several books/monographs. Kian-Lee was a recipient of the NUS Outstanding University Researchers Award in 1998, and the NUS Graduate School (NGS) Excellent Mentor Award in 2011. He was a co-recipient of Singapore's President Science Award in 2011. He is also a 2013 IEEE Technical Achievement Award recipient. Kian-Lee is a member of the VLDB Endowment Board (2012-2017) and PVLDB Advisory Committee (2014-2017). He is an associate editor of the ACM Transactions on Database Systems (TODS) and the WWW Journal. He has also served in the editorial board of the Very Large Data Base (VLDB) Journal (associate editor: 2007-2009; editor-in-chief: 2009-2015) and the IEEE Transactions on Knowledge and Data Engineering (2009-2013). Kian-Lee was the Technical Program Committee co-chair for the 27th International Conference on Data Engineering (ICDE 2011), the 36th International Conference on Very Large Data Bases (VLDB 2010), the 11th International Conference on Database Systems for Advanced Applications (DASFAA 2006) and 3rd International Conference on Mobile Data Management (MDM 2002). Kian-Lee is a member of ACM and IEEE (and IEEE CS).","Media
+Computational Biology
+Database","Query Processing
+Big Data Analytics
+Database Systems
+Multimedia Information Retrieval
+Optimization in Multiprocessor and Distributed Systems
+Database Performance
+Database Security
+Genome Databases","Parallel Personalized Pagerank on Dynamic Graphs W. Guo, Y. Li, M. Sha, K.L. Tan PVLDB , Vol. 11, No. 1, 2017, pp. 93-106 VLDB'2018, Rio de Janeiro, Brazil, 27-31 Aug 2018.
+Accelerating Dynamic Graph Analytics on GPUs M. Sha, Y. Li, B. He, K.L. Tan PVLDB , Vol. 11, No. 1, 2017, pp. 107-120 VLDB'2018, Rio de Janeiro, Brazil, 27-31 Aug 2018.
+Discovering Your Selling Points: Personalized Social Influential Tag Exploration Y. Li, J. Fan, D. Zhang, K.L. Tan 2017 International Conference on Management of Data SIGMOD'2017, May 14 - May 19, 2017, Chicago, IL, USA, pp. 619-634.
+Fast Failure Recovery for Main-Memory DBMSs on Multicores Y. Wu, W. Guo, C.Y. Chan, K.L. Tan 2017 International Conference on Management of Data SIGMOD'2017, May 14 - May 19, 2017, Chicago, IL, USA, pp. 267-281.
+Real-Time Influence Maximization on Dynamic Social StreamsY. Wang, Q. Fan, Y. Li, Kian-Lee TanPVLDB VLDB'2017, Vol. 10, No. 7, March 2017, pp. 805-816.
+A General and Parallel Platform for Mining Co-Movement Patterns over Large Scale Trajectories Qi Fan, D. Zhang, H. Wu, K.L. Tan PVLDB VLDB'2017, Vol. 10, No. 4, Dec 2016, pp. 313-324.
+Discovering Newsworthy Themes From Sequenced Data: A Step Towards Computational Journalism Q. Fan, Y. Li, D. Zhang, K.L. Tan, IEEE Transactions on Knowledge and Data Engineering, Volume 29, No. 7, pp. 1398-1411, July 2017, IEEE CS.
+Influence Maximization in Trajectory Databases G. Long, D. Zhong, G. Cong, W. Wu, K.L. Tan, IEEE Transactions on Knowledge and Data Engineering, Vol. 29, No. 3, March 2017, pp. 627-641.","IEEE (Computer Society)Technical Achievement Award, 2013
+President Science Awards, Singapore, 2011
+Excellent Mentor Awards (2010/2011), NGS, NUS, Singapore, 2011
+Outstanding University Researchers Award, Singapore, 1997/1998",NAN,Join and Multi-join processing on non-volatile memory: Revisiting Join Indexes
+Prasanna Karthik VAIRAM,"Lecturer (Educator Track), Computer Science",AS6-04-20,651 66122,./images/emails/Prasanna_Karthik_Vairam_email.jpg,./images/photos/Prasanna_Karthik_Vairam.jpg,https://www.comp.nus.edu.sg/cs/people/prasanna,"Indian Institute of Technology Madras (Ph.D.)
+Indian Institute of Technology Bombay (M.Tech)","I am currently a Lecturer at National University of Singapore. I completed my Ph.D from the Department of Computer Science and Engineering at IIT Madras. I received my Master's degree (2011) in Computer Science and Engineering from IIT Bombay, and my Bachelor's degree (2009) in Computer Science from Anna University. I have also worked at Intel, Bangalore, during the period 2011 to 2014, where I was involved in the development of a functional model of Intel's graphics processors.","Security
+Systems & Networking",NAN,NAN,NAN,"CS4238: Computer Security Practice
+IT5007: Software Engineering on Application Architecture
+TCX3232: Network and Cloud Security","Framework for Enforcing Data Protection and Regulatory Policies on Website-User Interactions
+Web API Server Design for Security and Privacy
+Designing Privacy Friendly Websites
+Machine Learning at the Network Edge
+RCTLab: Software Architecture for Remote Teaching Lab
+Service Provider Oblivious API calls using Unified API Gateway
+Machine Unlearning"
+Ambuj VARSHNEY,"Assistant Professor, Computer Science",COM3-02-25,651 67055,./images/emails/Ambuj_Varshney_email.jpg,./images/photos/Ambuj_Varshney.jpg,https://www.comp.nus.edu.sg/cs/people/ambuj,"University of California, Berkeley, USA (Postdoctoral Scholar) (2020 - 2022)
+Uppsala University, Sweden (PhD)","Ambuj Varshney's interests span circuits, devices, software, networking stacks, and applications, focusing on wireless embedded systems. A key focus of his research group (WEISER) is tackling the embedded systems' energy challenge to allow for embedded system's ubiquitous and sustainable deployment. He has received numerous awards and serves on many major scientific conferences' organizing and program committees.",Systems & Networking,"Wireless Communication
+Internet of Things
+Embedded Systems
+Mobile Computing","Securing Battery-free Backscatter Tags through Fingerprinting. In ACM HOTNETS 2021
+PassiveLiFi: Rethinking LiFi for Low-Power and Long Range RF Backscatter. In ACM MOBICOM 2021
+Tunnel emitter: tunnel diode based low-power carrier emitters for backscatter tags. In ACM MOBICOM 2020
+Two to Tango: Hybrid Light and Backscatter Networks for Next Billion Devices. In ACM MOBISYS 2020
+TunnelScatter: Low Power Communication for Sensor Tags using Tunnel Diodes. In ACM MOBICOM 2019
+Connecting Battery-free IoT Tags Using LED Bulbs. In ACM HOTNETS 2018
+LoRea: A Backscatter Architecture that Achieves a Long Communication Range. In ACM SENSYS 2017
+Judo: addressing the energy asymmetry of wireless embedded systems through tunnel diode based wireless transmitters, ACM MOBISYS 2022
+TunnelSense: Low-power, Non-Contact Sensing using Tunnel Diodes. In IEEE RFID 2024
+TunnelLiFi: Bringing LiFi to Commodity Internet of Things Devices. In ACM HotMobile 2023","Mentor to Winner of Student Research Competition: MobiCom 2017 (Graduate), MobiCom 2023 (Undergraduate)
+Best Paper Award ACM VLCS (co-located with Mobicom) 2017
+ACM WiSec Best Demonstration Award 2018
+ABB Research Award in Honour of Honor of Hubertus von Grunberg (Doctoral dissertation) (Endowment of 300,000 USD) 2019
+VINNOVA (Swedish Innovation Agency) Breakthrough Ideas 2019 (with grant of 50k USD)
+University of California, Berkeley FORM+FUND Fellow 2021
+Part of Jury for Selection of ABB Research Award in Honour of Hubertus von Grunberg 2022
+ACM MOBISYS Best Demonstration Award 2023
+Google Research Scholar Program Award 2024
+ACM/IEEE IPSN Best Demonstration Runner-Up 2024","CS4222: Wireless Networking
+CS5272: Embedded Software Design
+CS5422: Wireless Networking","Collecting and analyzing data from battery-free Internet of Things
+ Data storage on IoT devices
+Software-Defined Backscattering
+Battery-free Internet of Things Operating on Energy Harvested from Waste Heat energy
+Integration of Embedded Wireless Microphones with Open AI Whisper (Voice to Text) System
+Low-power motion sensor leveraging backscatter mechanism
+Exploring machine learning (TinyML) on embedded devices (Arduino) 
+Sustainable Edge Computing
+Rethinking embedded cameras using Image and Language Models"
+Bimlesh WADHWA,"Associate Professor (Educator Track), Computer Science",COM2-02-62,651 62973,./images/emails/Bimlesh_Wadhwa_email.jpg,./images/photos/Bimlesh_Wadhwa.jpg,https://www.comp.nus.edu.sg/cs/people/bimlesh,"Ph.D. (Computer Science: Software Metrics, University of Delhi)
+M.Tech. (Software Engineering, National University of Singapore)
+M.Sc. (Physics, University of Delhi)
+B.Sc. (Physics, Honours, University of Delhi)","Dr. Wadhwa’s research and teaching interests include software engineering, interaction design, information visualization and computing education. In her teaching engagements, Dr. Wadhwa has supervised many undergraduate and postgraduate students in the NUS School of Computing. She has developed, coordinated and taught several courses in the areas of software engineering and human-computer interaction e.g. object-oriented analysis and design, software engineering principles and patterns, software system design, interaction design, and information visualization. In her recent research work, Dr Wadhwa has worked on gender issues in human-computer interaction, user modelling and evaluation of health applications and in improving the quality of software design models. Her research has been presented at major conferences such as the FSE Foundations of Software Engineering, the Workshop at ICSE International Conference on Software Engineering, and CHI Conference on Human-Computer Interaction. Dr Wadhwa has also contributed book chapters to volumes including Wiley Handbook for Human-Computer Interaction and Springer’s Informatics and Communication Technologies for Societal Development. Dr Wadhwa is a founding member of the Centre for Computing for Social Good and Philanthropy at NUS. She initiated the Code for Community programme, to bring computing education to underserved communities. She has been very active in organising and judging many national and international competitions and hackathons including CodeXtreme, NUS Data Science Challenge, Singapore Science and Engineering Fair(SSEF), and Intel International Science and Engineering Fair. Dr Wadhwa is also acting Chair of ACM-w Asia Pacific and Founding advisor for WiT(Women in Tech) at NUS. She also serves as a Faculty representative for the Student Chapter of the Singapore Computer Society and a Residence Fellow at Tembusu College, NUS.","Programming Languages & Software Engineering
+Media","Visual Analysis of Software Engineering Data
+Computing Education
+Technology Applications in Education and Healthcare","Wadhwa, Bimlesh, Seow, Peter, Ker, Chin-Lee, Looi, Chee-Kit (2021-06-02). Bringing Physical Computing to an Underserved Community in an Informal Learning Space. 5th APSCE CTE-STEM 2021 ISSN 2737-5641 : 101-106
+Wadhwa, Bimlesh, CHING, Jia Yea Travis (2021-06-02). VizBlocks: A Data Visualization Literacy Education Tool. APSCE CTE-STEM'2021 ISSN 2737-5641 : 68-69
+Samantha Breslin, Bimlesh Wadhwa: Gender and Human-Computer Interaction, Chapter in The Wiley Handbook for Human-Computer Interaction, Publisher: John Wiley & Sons, Editors: Kent L. Norman, Jurek Kirakowski, December 2017, , pp. 71-87
+Shuang Liu, Yang Liu, Jun Sun, Manchun Zheng, Bimlesh Wadhwa, and Jin Song Dong. 2013. USMMC: a self-contained model checker for UML state machines. In Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering ESEC/FSE 2013. ACM, New York, NY, USA, 623-626.
+V. Sahni, V Khuthia, B. Wadhwa -ClassNote: Facilitating in-Class Active and Collaborative Learning,” Microsoft Academic Conference for Higher Education, Redmond, Washington, June 19-20, 2017
+Kulshreshtha K., Niculescu A.I., Wadhwa B. 2017 On the Design and Evaluation of Nippon Paint Color Visualizer Application – A Case Study. In: Bernhaupt R., Dalvi G., Joshi A., K. Balkrishan D., O’Neill J., Winckler M. eds Human-Computer Interaction – INTERACT 2017. INTERACT 2017. Lecture Notes in Computer Science, vol 10516. Springer
+S. Liu, J. Sun, H. Xiao, B. Wadhwa, J. S. Dong and X. Wang, ""Improving Quality of Use Case Documents through Learning and User Interaction,"" 2016 21st International Conference on Engineering of Complex Computer Systems ICECCS, Dubai, 2016, pp. 101-110
+Rahman M., Kankanhalli A., Wadhwa B., Cheng K.K., Lim J.H., Jayakkumar S., Chua, C.L. and C.H. Yeow. ""GEAR: A Mobile Game Assisted Rehabilitation System."" ICHI'2016: Proc. IEEE International Conference on Healthcare Informatics, Chicago, 2016
+Rahman M., Kankanhalli A., Wadhwa B., Cheng K.K., Lim J.H., Jayakkumar S., Chua, C.L. and C.H. Yeow. ""GEAR: A Mobile Game Assisted Rehabilitation System."" ICHI'2016: Proc. IEEE International Conference on Healthcare Informatics, Chicago, 2016
+Rahman M., Kankanhalli A., Wadhwa B., Cheng K.K., Lim J.H., Jayakkumar S., Chua, C.L. and C.H. Yeow. ""GEAR: A Mobile Game Assisted Rehabilitation System."" ICHI'2016: Proc. IEEE International Conference on Healthcare Informatics, Chicago, 2016
+Rahman M., Kankanhalli A., Wadhwa B., Cheng K.K., Lim J.H., Jayakkumar S., Chua, C.L. and C.H. Yeow. ""GEAR: A Mobile Game Assisted Rehabilitation System."" ICHI'2016: Proc. IEEE International Conference on Healthcare Informatics, Chicago, 2016
+Shuang Liu, Jun Sun, Yang Liu, Yue Zhang, Bimlesh Wadhwa, Jin Song Dong, and Xinyu Wang. 2014. Automatic early defects detection in use case documents. In Proceedings of the 29th ACM/IEEE international conference on Automated software engineering ASE '14. ACM, New York, NY, USA, 785-790.",NAN,"CS3219: Software Engineering Principles and Patterns
+CS3240: Interaction Design
+GEI1000: Computational Thinking",Exploring AI Interfaces  Beyond the Chatbot Paradigm
+Jingxian WANG,"NUS Presidential Young Professor, Computer Science",COM2-03-32,651 65763,./images/emails/Jingxian_Wang_email.jpg,./images/photos/Jingxian_Wang.jpg,https://www.comp.nus.edu.sg/cs/people/wangjx,"PhD, Carnegie Mellon University","I am a Presidential Young Professor at the CS Department of National University of Singapore. My research builds next-generation wireless systems and satellite networks. Before joining NUS, I was research scientist at Microsoft Research in Redmond where I led the ambitious Smart Surface for 6G and Space initiative. I received my Ph.D. from Carnegie Mellon University. Our primary focus is on integrating AI with wirelessly networked devices, ranging from WiFi to satellites. We emphasize developing AI-augmented, large-scale wireless and mobile systems. Our work covers everything from developing sustainable sensing methods for data capture and bolstering robust wireless communication networks, all the way to innovating multimodal AI techniques for rich data insights. An interdisciplinary ethos is intrinsic to our work, bridging domains like robotics, materials science, AI, and wireless systems. Our work has received research accolades three times at ACM SIGMOBILE and Communications of the ACM, best paper and demo at UbiComp, best paper at IPSN, and has also been selected for Microsoft's Accelerating Foundation Models program. I am a recipient of ACM SIGMOBILE Doctoral Dissertation Award, Microsoft Research Fellowship in North America, and inaugural Emerging Rockstar in IEEE Pervasive Computing.","Artificial Intelligence
+Systems & Networking
+Media","Multimodal AI (supported by Microsoft's Accelerate Foundation Models Research)
+Systems for Satellites and Next-Gen Wireless
+Robotics and Materials",NAN,"ACM SIGMOBILE Dissertation Award
+Communications of the ACM Research Highlights 2022
+ACM SIGMOBILE Research Highlights 2021
+Communications of the ACM Research Highlights 2021
+Best Paper Award, ACM/IEEE IPSN 2021
+Best Wearables Long Paper Award, ACM UbiComp 2020
+Microsoft Research Fellowship 2020
+Best Demo Honorable Mention, ACM UbiComp 2018","CS3237: Introduction to Internet of Things
+CS4222: Wireless Networking
+CS5422: Wireless Networking","Towards Non-Invasive, Everyday Health Diagnostics Using Intelligent Sensing Techniques
+Towards Efficient In-Orbit Computing for AI and General-Purpose Processing"
+WANG QIUHONG,"Senior Lecturer (Educator Track), Information Systems and Analytics",COM3-02-36,660 17642,./images/emails/Wang_Qiuhong_email.jpg,./images/photos/Wang_Qiuhong.jpg,https://www.comp.nus.edu.sg/disa/people/wangqh,"PhD, Department of Information Systems, National University of Singapore, Singapore
+Master of Engineering, Department of Computer Architecture, Huazhong University of Science & Technology.
+Bachelor with Dual Degrees in Engineering and Economics, Department of Computer Software, Department of Finance, Huazhong University of Science & Technology.","Qiuhong specialises in the economics of information systems, with a focus on cybercrime policy analytics. Her research examines the effects and mechanisms of cybercrime enforcement, including frameworks such as the Convention on Cybercrime and the Computer Misuse Act. She leverages interdisciplinary approaches that combine artificial intelligence, economics, and econometrics to derive policy and business insights from big data. Her work has been published in leading academic journals including MIS Quarterly, Information Systems Research, Journal of Management Information Systems, Communications of the ACM, Decision Support Systems, Information Systems Frontier, IEEE Security & Privacy, and Electronic Commerce Research and Applications.","Security
+Healthcare Informatics
+Computational Social Science
+Data Science & Business Analytics","Legal Aspects of Information Technology
+Economics of Information System
+Recommendation System","WANG, Qiu-Hong; GENG, Ruibin; KIM, Seung-Hyun. (2024). ""Chilling Effect of the Enforcement of Computer Misuse Act: Evidence from Publicly Accessible Hack Forums,"" Information Systems Research, 35(3):1195-1215.
+WANG, Qiu-Hong; MILLER, Steven; DENG, Robert H. (2020). “Driving Cybersecurity Policy Insights from Information on the Internet,” IEEE Security & Privacy, 18(6), 42-50.
+YUE, Wei Thoo; WANG, Qiu‐Hong; HUI, Kai‐Lung. (2019). “See no evil, hear no evil? Dissecting the impact of online hacker forums,” MIS Quarterly, 43 (1), 73-95.
+PHANG, David C.W., WANG, Kanliang, WANG, Qiuhong, KAUFFMAN, Robert J. , NALDI, Maurizio. (2019). ""How to derive causal insights for digital commerce in China? A research commentary on computational social science methods,"" Electronic Commerce Research and Applications, Volume 35, 1-16.
+WANG, Qiu-Hong; HUI, Kai-Lung. (2017). “Technology mergers and acquisitions in the presence of an installed base: A strategic analysis,” Information Systems Research, 28 (1), 46-63.
+HUI, Kai-Lung; KIM, Seung-Hyun; WANG, Qiu-Hong. (2017). “Cybercrime deterrence and international legislation: Evidence from distributed denial of service attacks,” MIS Quarterly, 41 (2), 497-523.
+WANG, Qiu-Hong; MAYER-SCHONBERGER, Viktor; YANG, Xue. (2013). “The determinants of monetary value of virtual goods: An empirical study for a cross-section of MMORPGs,” Information Systems Frontiers, 15 (3), 481-495.
+WANG, Qiu-Hong; HUI, Kai-Lung. (2012). “Delayed product introduction,” Decision Support Systems, 53 (4), 870-880.
+KIM, Seung-Hyun; WANG, Qiu-Hong; ULLRICH, Johannes B.. (2012). “A comparative study of cyberattacks,” Communications- ACM, 55 (3), 66-73.
+PNG, Ivan Paak Liang; WANG, Qiu-Hong. (2009). “Information security: Facilitating user precautions vis-a-vis enforcement against attackers,” Journal of Management Information Systems, 26 (2), 97-121.
+PNG, Ivan Paak Liang; WANG, Chen-Yu; WANG, Qiu-Hong. (2008). “The deterrent and displacement effects of information security enforcement: International evidence,” Journal of Management Information Systems, 25 (2), 125-144.
+ZHOU, Fang; WANG, Qiu-Hong; TEO, Hock Hai. (2019). “Direct and Spillover Effects of Patient Access to Health Information Exchange on Medical Costs: A Natural Experiment,” Proceedings of the 40th International Conference on Information Systems (ICIS), Munich, Germany, 2019 December 15-17.
+LUO, Kai; WANG, Qiu-Hong; TEO, Hock Hai; CHEN, Xi. (2018). “Better inpatient health quality at lower cost: Should I participate in the online healthcare community first?” Proceedings of the 39th International Conference on Information Systems (ICIS), San Francisco, California, USA, 2018 December 13-16, (pp. 1-17).
+WANG, Qiu-Hong; ZHANG, Le-Ting; QIAO, Meng-Ke. (2017). “Online hacker forum censorship: Would banning the bad guys attract good guys?” Hawaii International Conference on System Sciences HICSS-50: 4-7 January 2017, pp. 5619-5628.
+OOI, Kok Wei; KIM, Seung Hyun; WANG, Qiu-Hong; HUI, Kai-Lung. (2012). “Do hackers seek variety? An empirical analysis of website defacements,” Proceedings of the 33rd International Conference on Information Systems (ICIS), Orlando, December 16-19, (pp. 1-10) Atlanta, GA: AIS (Best Research-in-Progress Paper Runner-up Award).
+WANG, Qiu-Hong; KIM, Seung Hyun. (2009). ”Cyber attacks: Does physical boundary matter?,” Proceedings of 30th Annual International Conference on Information Systems (ICIS), Phoenix, AZ, December 15-18, (pp. 1-18) Atlanta, GA: AIS.
+WANG, Qiu-Hong; KIM, Seung-Hyun. (2009). “Cyber attacks: Cross-country interdependence and enforcement,” Proceedings of the 8th Workshop on Economics of Information Security (WEIS), London, June 24-25, 2009, (pp. 1-16) Cambridge: WEIS.
+WANG, Qiu-Hong; HUI, Kai-Lung. (2005). “To launch or not to launch: An economic analysis of delayed product introduction,” Hawaii International Conference on System Sciences HICSS-38: 6-9 January 2005, pp. 213.","Della Suantio Fellowship, Singapore Management University, 2018
+Lee Kong Chian Fellowship for Research Excellence, Singapore Management University, 2017
+New Century Talents Award, Ministry of Education, P.R. China, 2012
+“Marginal deterrence in the enforcement of law: Evidence from distributed denial of service attack,” Workshop on Analytics for Business, Consumer and Social Insights (BCSI). 5 August 2013, Singapore. (Best Faculty Research Paper Award)
+Award of ICIS 2005 Doctoral Consortium Fellow, Las Vegas, Nevada, December 2005
+The President's Graduate Fellowship, National University of Singapore, 2002","BT4222: Mining Web Data for Business Insights
+IS4233: Legal Aspects of Information Technology
+IS4238: Strategic Cybersecurity","Leveraging Large Language Models for Advanced Legal Intelligence: A RAG and Graph Database Approach
+Explainable Cybersecurity on Vulnerability Management: A LLM and Knowledge Graph Approach"
+YAN Shuicheng,"Distinguished Professor (Practice Track), Computer Science",COM2-03-52,651 63543,./images/emails/Yan_Shuicheng_email.jpg,./images/photos/Yan_Shuicheng.jpg,https://www.comp.nus.edu.sg/cs/people/yansc,"Ph.D. (School of Mathematical Sciences, Peking University, 2004)
+B.S. (School of Mathematical Sciences, Peking University, 1999)","Prof. Yan Shuicheng is currently a Distinguished Professor (Practice) at the School of Computing, National University of Singapore. He previously served as the Group Chief Scientist at Sea Group and has held several other notable industry positions. Prof. Yan is a Fellow of the Singapore Academy of Engineering, AAAI, ACM, IEEE, and IAPR. His research focuses on computer vision, machine learning, and multimedia analysis. He has also been recognised as one of the World's Highly Cited Researchers for ten years. Under Prof. Yan's leadership, his team has secured ten first-place or honorable-mention accolades in two flagship competitions: Pascal VOC and ImageNet (ILSVRC). Additionally, his team has earned more than ten best paper and best student paper awards, including a remarkable grand slam at ACM Multimedia, a premier conference in multimedia research, with three Best Paper Awards, two Best Student Paper Awards, and one Best Demo Award.","Media
+Artificial Intelligence","e-AGI: efficient, executive, and evolving
+Computer Vision
+Machine Learning",NAN,NAN,NAN,"AI Tools for Yearly Bible Reading
+Proactive Agent for Supplementing Knowledge"
+"YAP Hock Chuan, Roland","Associate Professor, Computer Science",COM2-03-09,651 62972,./images/emails/Yap_Hock_Chuan_Roland_email.jpg,./images/photos/Yap_Hock_Chuan_Roland.jpg,https://www.comp.nus.edu.sg/cs/people/ryap,"Ph.D. (Computer Science, Monash University, Australia)
+M.Sc. (Computer Science, Monash University, Australia)
+B.Sc. (Computer Science, Honours, Monash University, Australia)","Roland Yap obtained his Phd from Monash University, Melbourne, Australia. He is currently an Associate Professor in the Department of Computer Science, School of Computing, National University of Singapore (NUS). He has also served an assistant director at The Logistics Institute Asia Pacific (TLI-AP) at NUS. He is well known for pioneering research in CLP(R) and the CLP(R) system which has been influential in the development of the field of Constraint Programming (CP). His current research interests are in the area of artificial intelligence, constraints, data analytics, programming languages, security and social networks.","Artificial Intelligence
+Security
+Programming Languages & Software Engineering
+Algorithms & Theory","AI
+Programming Languages
+Security
+Social Networks
+Constraints
+Big Data","W. Xia, R.H.C. Yap:Learning Robust Search Strategies Using a Bandit-Based Approach,In AAAI, 2018
+G.J. Duck, R.H.C. Yap, L. Cavallaro: Stack BoundsProtection with Low Fat Pointers.In NDSS: Network & Distributed System Security Symp., 2017
+S. Effendy, R.H.C. Yap:The Strong Link Graph for Enhancing Sybil Defenses.In ICDCS: IEEE Intl. Conf. on Distributed Computing Systems, 2017
+R. Wang, W. Xia, R.H.C. Yap, Z. Li:Optimizing Simple Tabular Reduction with a Bitwise Representation.In IJCAI: Intl. Joint Conf. on Artificial Intelligence, 2016
+F. Halim, S. Idreos, P. Karras, R.H.C. Yap:Stochastic Database Cracking: Towards Robust Adaptive Indexing in Main-Memory Column-Stores.In PVLDB: Proc. of the VLDB, 56, 2012
+F. Halim, R.H.C. Yap, Y. Wu:A MapReduce-Based Maximum-Flow Algorithm for Large Small-World Network Graphs,ICDCS: Intl. Conf. on Distributed Computing Systems, 2011
+C. Bessiere, J.-C. Regin, R.H.C. Yap, Y. Zhang:An optimal coarse-grained arc consistency algorithm.In Artificial Intelligence, 1652, 2005
+F. Zeng, R.H.C. Yap and L. Wong,Using Feature Generation and Feature Selection for Accurate Predictionof Translation Initiation Sites,In Genome Informatics 2002, 13, 2002
+J. Jaffar, S. Michaylov, P.J. Stuckey, R.H.C. Yap:The CLPR Language and System.In TOPLAS: ACM Trans. on Programming Languages and Systems, 143, 1992","Best student paper: S. Effendy, F. Halim and R.H.C. Yap, Partial Social Network Disclosure and Crawlers, Intl. Conf. on Social Computing and its Applications (SCA), 2011
+Best student runner up paper: F. Halim, P. Karras and R.H.C. Yap, Fast and effective histogram construction, CIKM: ACM Conf. on Information and Knowledge Management, 2009
+Best 1995 Australian Computer Science Ph.D. Prize, 1996
+Praxa Computer Prize for achievements in theoretical aspects of computing, 1985","CS4239: Software Security
+CS5439: Software Security
+CS6231: Advanced Topics in Security and Privacy",Investigating Disassemblers
+YU Haifeng,"Dean's Chair Associate Professor, Computer Science",COM2-04-25,651 66802,./images/emails/Yu_Haifeng_email.jpg,./images/photos/Yu_Haifeng.jpg,https://www.comp.nus.edu.sg/cs/people/yuhf,"Ph.D. (Computer Science, Duke University, USA, 2002)
+M.S. (Computer Science, Duke University, USA, 1999)
+B.E. (Computer Science, Shanghai Jiao Tong University, P.R., China, 1997)","Haifeng's current research interests include Distributed Systems Security (e.g., blockchains and sybil attacks), Distributed Algorithms, Distributed Computing, and Algorithms in Networking. He has published extensively in various top venues such as JACM, Distributed Computing, PODC, SIGCOMM, Transactions on Networking, Oakland, and CCS. He has won several best paper awards, including the best paper award in SPAA 2020 and SIGCOMM 2010. He has also served on the PC of many premier international conferences such as PODC, DISC, SIGCOMM, CCS, and Oakland.","Security
+Algorithms & Theory
+Systems & Networking","Distributed Systems Security (e.g., blockchains and sybil attacks)
+Distributed Algorithms
+Algorithms in Networking
+Distributed Computing","Ruomu Hou, Haifeng Yu, and Prateek Saxena, ""Using Throughput-Centric Byzantine Broadcast to Tolerate Malicious Majority in Blockchains."" Proceedings of the IEEE Symposium on Security and Privacy (Oakland'22), May 2022.
+Irvan Jahja, Haifeng Yu, and Ruomu Hou, ""On the power of randomization in distributed algorithms in dynamic networks with adaptive adversaries."" Journal of Parallel and Distributed Computing, Volume 159, pp. 35-50, Jan 2022.
+Haifeng Yu, Ivica Nikolic, Ruomu Hou, and Prateek Saxena, ""OHIE: Blockchain Scaling Made Simple."" Proceedings of the IEEE Symposium on Security and Privacy (Oakland'20), May 2020.
+Irvan Jahja and Haifeng Yu, ""Sublinear Algorithms in T-interval Dynamic Networks."" Proceedings of the ACM Symposium on Parallelism in Algorithms and Architectures (SPAA'20), July 2020. Awarded Best Paper.
+Irvan Jahja, Haifeng Yu, and Yuda Zhao, ""Some Lower Bounds in Dynamic Networks with Oblivious Adversaries."" Distributed Computing, Volume 33, Issue 1, pp. 1-40, Feb 2020.
+aifeng Yu, Yuda Zhao, and Irvan Jahja., ""The Cost of Unknown Diameter in Dynamic Networks."" Journal of the ACM, Volume 65, Issue 5, Article 31, September 2018.","Awarded Best Paper in ACM Symposium on Parallelism in Algorithms and Architectures (SPAA), 2020.
+Best Paper Award in ACM SIGCOMM Conference (SIGCOMM), 2010.
+Best Paper Award in ACM/IEEE International Conference on Information Processing in Sensor Networks (IPSN), 2009.
+Best Paper Award in Symposium on Networked Systems Design & Implementation (NSDI), 2006.","CS4231: Parallel and Distributed Algorithms
+CS5223: Distributed Systems",Research in Distributed Systems Security (including blockchains) and Distributed Algorithms
+ZHANG Jiaheng,"Assistant Professor, Computer Science",COM2-03-08,660 15482,./images/emails/Zhang_Jiaheng_email.jpg,./images/photos/Zhang_Jiaheng.jpg,https://www.comp.nus.edu.sg/cs/people/zhangjh,NAN,,"Security
+Artificial Intelligence
+Algorithms & Theory",NAN,NAN,NAN,CS3235: Computer Security,"LLM security and privacy especially on watermarks.
+Verifiable Large Language Models via Scalable Zero-Knowledge Proofs
+Trustless cross-chain bridges in blockchains powered by zero-knowledge proofs
+Verifiable Large Language Models via Scalable Zero-Knowledge Proofs
+Watermarks for Large Language Models
+Research on blockchains and cryptocurrency
+Research on LLM security and privacy"
